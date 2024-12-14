@@ -1,0 +1,65 @@
+
+---Загруженные файлы---
+Файлы импорта для: Big Store Electro были успешно загружены!
+Начальное максимальное время выполнения = 120
+Информация о файлах:
+Сайт URL = http://localhost/navor
+Файл данных = C:\xampp\htdocs\navor/wp-content/uploads/2024/11/demo-content-import-file_2024-11-30__03-39-34.xml
+Файл виджета = C:\xampp\htdocs\navor/wp-content/uploads/2024/11/demo-widgets-import-file_2024-11-30__03-39-34.json
+Файл настройки темы = C:\xampp\htdocs\navor/wp-content/uploads/2024/11/demo-customizer-import-file_2024-11-30__03-39-34.dat
+Файлы Redux:
+не определено!
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+[ERROR] Failed to import "Pexels Videos 905049" (Медиафайлы)
+
+
+---Импорт виджетов---
+Primary Sidebar : 
+
+Изображение - Нет заголовка - Импортировано
+Список товаров - Popular - Импортировано
+Облако меток - Tag Clouds - Импортировано
+
+Footer Below Second Widget : 
+
+Изображение - Нет заголовка - Импортировано
+
+Footer Widget Area 1 : 
+
+Текст - Connect With Us - Импортировано
+Текст - Useful Links - Импортировано
+
+Footer Widget Area 2 : 
+
+Текст - More About Store - Импортировано
+Меню навигации - End Points - Импортировано
+
+Footer Widget Area 3 : 
+
+Список товаров - Products - Импортировано
+
+Footer Widget Area 4 : 
+
+HTML-код - Contact Details - Импортировано
+Текст - Offline Stores - Импортировано
+
+WooCommerce Sidebar : 
+
+Фильтрация товаров по цене - Filter by Price - Импортировано
+Категории товаров - Product categories - Импортировано
+Список товаров - Products - Импортировано
+Фильтрация товаров по рейтингу - Average Rating - Импортировано
+
+
+
+---Импорт настроек темы---
+Импорт настроек темы завершен!
+
+---ocdi/after_import---
+

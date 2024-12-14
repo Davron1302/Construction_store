@@ -1,0 +1,4049 @@
+# Translation of Plugins - ThemeHunk Customizer - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - ThemeHunk Customizer - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-21 13:10:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - ThemeHunk Customizer - Development (trunk)\n"
+
+#: big-store/customizer/section/frontpage/banner.php:7
+#: big-store/customizer/section/frontpage/category-slider.php:7
+#: big-store/customizer/section/frontpage/category-tab.php:7
+#: big-store/customizer/section/frontpage/higlight.php:7
+#: big-store/customizer/section/frontpage/product-list.php:7
+#: big-store/customizer/section/frontpage/product-slide.php:17
+#: big-store/customizer/section/frontpage/ribbon.php:7
+#: big-store/customizer/section/frontpage/tab-productimage.php:7
+#: big-store/customizer/section/frontpage/top-slider.php:7
+msgid "Disable Section (Pro)"
+msgstr "Отключить раздел (Pro)"
+
+#: big-store/customizer/section/frontpage/category-tab.php:53
+#: big-store/customizer/section/frontpage/product-list.php:48
+#: big-store/customizer/section/frontpage/product-slide.php:59
+#: big-store/customizer/section/frontpage/tab-productimage.php:55
+msgid "Featured (Pro)"
+msgstr "Рекомендуемые (Pro)"
+
+#: big-store/customizer/section/frontpage/category-tab.php:54
+#: big-store/customizer/section/frontpage/product-list.php:49
+#: big-store/customizer/section/frontpage/product-slide.php:60
+#: big-store/customizer/section/frontpage/tab-productimage.php:56
+msgid "Random (Pro)"
+msgstr "Случайно (Pro)"
+
+#: big-store/customizer/section/frontpage/category-slider.php:95
+#: big-store/customizer/section/frontpage/category-tab.php:77
+#: big-store/customizer/section/frontpage/product-list.php:71
+#: big-store/customizer/section/frontpage/product-slide.php:83
+#: big-store/customizer/section/frontpage/tab-productimage.php:67
+#: big-store/customizer/section/frontpage/top-slider.php:80
+msgid "Slide Auto Play (Pro)"
+msgstr "Автовоспроизведение слайдов (Pro)"
+
+#: shopline/inc/shortcode.php:890
+msgid "Add Cart"
+msgstr "Добавить в корзину"
+
+#: oneline-lite/demo/import-data.php:24
+msgid "Coffee Shop"
+msgstr "Coffee Shop"
+
+#: m-shop/m-shop-front-page/front-categoryslider.php:148
+msgid "Product"
+msgstr "Товар"
+
+#: jot-shop/customizer/pro-button/class-customize.php:74
+msgid "Unlock Pro Features"
+msgstr "Разблокируйте функции PRO"
+
+#: jot-shop/customizer/pro-button/class-customize.php:87
+msgid "View Docs"
+msgstr "Смотреть документацию"
+
+#: jot-shop/customizer/pro-button/class-customize.php:86
+msgid "View Documentation"
+msgstr "Посмотреть документацию"
+
+#. translators: Copyright date format, see https://www.php.net/date
+#: amaz-store/amaz-store-admin/woo/amaz-store-admin.php:496
+#: big-store/big-store-admin/woo/big-store-admin.php:526
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:521
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#: amaz-store/amaz-store-admin/woo/amaz-store-admin.php:502
+#: big-store/big-store-admin/woo/big-store-admin.php:532
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:527
+msgid "https://themehunk.com/"
+msgstr "https://themehunk.com/"
+
+#: amaz-store/amaz-store-admin/woo/amaz-store-admin.php:503
+#: big-store/big-store-admin/woo/big-store-admin.php:533
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:528
+msgid "Themehunk"
+msgstr "ThemeHunk"
+
+#: amaz-store/amaz-store-admin/woo/amaz-store-admin.php:501
+#: big-store/big-store-admin/woo/big-store-admin.php:531
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:526
+msgid "Designed by"
+msgstr "Спроектировано"
+
+#: amaz-store/demo/import.php:10
+msgid "Amaz Store Market"
+msgstr "Amaz Store Market"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:54
+msgid "Image (Pro)"
+msgstr "Изображение (Pro)"
+
+#: amaz-store/customizer/customizer.php:82
+msgid "To get more color options Go to Pro"
+msgstr "Чтобы получить больше вариантов цвета, перейдите в Pro"
+
+#: amaz-store/customizer/customizer.php:55
+#: amaz-store/customizer/customizer.php:67
+#: big-store/customizer/customizer.php:54 jot-shop/customizer/customizer.php:47
+#: jot-shop/customizer/pro-button/class-customize.php:75
+#: m-shop/customizer/customizer.php:36
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:22
+msgid "Amaz Store : About Us widget"
+msgstr "Amaz Store: виджет О нас"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:13
+msgid "Amaz Store : Post Slide widget"
+msgstr "Amaz Store : виджет слайда записи"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:27
+msgid "Ribbon Layout"
+msgstr "Макет ленты"
+
+#: amaz-store/customizer/customizer.php:43
+msgid "Typography (Pro)"
+msgstr "Типография (Pro)"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:55
+#: big-store/customizer/section/frontpage/ribbon.php:25
+msgid "Video (Pro)"
+msgstr "Видео (Pro)"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:131
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:131
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:133
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:133
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:120
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:120
+msgid "Add Number of Post Show"
+msgstr "Добавить количество показов записи"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:142
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:142
+msgid "Check here to display unique post"
+msgstr "Проверьте здесь, чтобы показать уникальную запись"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:132
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:132
+msgid "Random Post"
+msgstr "Случайная запись"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:183
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:183
+msgid "Social Icon Link-4"
+msgstr "Ссылка-4 на значок соцсети"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:140
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:140
+msgid "Unique Post Option"
+msgstr "Опция Уникальная запись"
+
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:22
+msgid "Jot Shop : About Us widget"
+msgstr "Jot Shop: виджет О нас"
+
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:13
+msgid "Jot Shop : Post Slide widget"
+msgstr "Jot Shop : виджет слайда записи"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:141
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:141
+msgid "(Post displaying in this section will be excluded from all bottom sections. You can use this option to stop repeated post)"
+msgstr "(Отображение записи в этом разделе будет исключено из всех нижних разделов. Вы можете использовать эту опцию, чтобы остановить повтор записи)"
+
+#: amaz-store/customizer/section/frontpage/top-slider.php:161
+#: jot-shop/customizer/section/frontpage/top-slider.php:161
+msgid "Category Url"
+msgstr "URL категории"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:136
+#: jot-shop/customizer/section/frontpage/ribbon.php:106
+msgid "Check to upload youtube video link"
+msgstr "Отметьте, чтобы загрузить ссылку на видео youtube"
+
+#: amaz-store/customizer/section/frontpage/top-slider.php:144
+#: jot-shop/customizer/section/frontpage/top-slider.php:144
+msgid "Discount Up To 50%"
+msgstr "Скидка до 50%"
+
+#: amaz-store/customizer/section/frontpage/top-slider.php:150
+#: jot-shop/customizer/section/frontpage/top-slider.php:150
+msgid "Discount Offer Heading"
+msgstr "Заголовок предложения о скидке"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:149
+#: jot-shop/customizer/section/frontpage/ribbon.php:119
+msgid "Enter youtube video embeded Url"
+msgstr "Введите URL-адрес для встраивания видео YouTube"
+
+#: jot-shop/demo/import.php:19
+msgid "Jot Shop Groceries"
+msgstr "Jot Shop Бакалея"
+
+#: jot-shop/demo/import.php:10
+msgid "Jot Shop Default"
+msgstr "Jot Shop по умолчанию"
+
+#: jot-shop/demo/import.php:28
+msgid "Jot Shop Electro"
+msgstr "Jot Shop Электро"
+
+#: amaz-store/amaz-store-admin/woo/amaz-store-admin.php:101
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:139
+msgid "More categories..."
+msgstr "Больше категорий..."
+
+#: m-shop/demo/import.php:18
+msgid "Ice Cream Store"
+msgstr "Ice Cream Store"
+
+#: m-shop/demo/import.php:9
+msgid "M Shop Default"
+msgstr "M Shop по умолчанию"
+
+#: m-shop/customizer/section/frontpage/blog.php:15
+#: m-shop/m-shop-front-page/front-blog.php:11
+msgid "Blog"
+msgstr "Блог"
+
+#: m-shop/m-shop-admin/woo/m-shop-admin.php:30
+msgid "Added"
+msgstr "Добавлен"
+
+#: m-shop/customizer/section/frontpage/testimonial.php:28
+msgid "Add new Testimonial"
+msgstr "Добавить новый отзыв"
+
+#: m-shop/m-shop-admin/woo/m-shop-admin.php:30
+msgid "Already"
+msgstr "Уже"
+
+#: m-shop/customizer/section/frontpage/testimonial.php:25
+msgid "Testimonials Content"
+msgstr "Содержимое отзывов"
+
+#: m-shop/m-shop-admin/woo/m-shop-admin.php:29
+msgid "wishlist"
+msgstr "список пожеланий"
+
+#: amaz-store/amaz-store-admin/woo/amaz-store-admin.php:185
+#: amaz-store/amaz-store-admin/woo/amaz-store-admin.php:313
+#: big-store/big-store-admin/woo/big-store-admin.php:245
+#: big-store/big-store-admin/woo/big-store-admin.php:364
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:233
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:361
+#: m-shop/m-shop-admin/woo/m-shop-admin.php:265
+#: m-shop/m-shop-admin/woo/m-shop-admin.php:372
+msgid "Quick View"
+msgstr "Быстрый просмотр"
+
+#: amaz-store/amaz-store-admin/woo/amaz-store-admin.php:418
+#: big-store/big-store-admin/woo/big-store-admin.php:452
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:442
+msgid "No categories"
+msgstr "Нет категорий"
+
+#: amaz-store/amaz-store-admin/woo/amaz-store-admin.php:231
+#: amaz-store/amaz-store-admin/woo/amaz-store-admin.php:359
+#: big-store/big-store-admin/woo/big-store-admin.php:73
+#: big-store/big-store-admin/woo/big-store-admin.php:264
+#: big-store/big-store-admin/woo/big-store-admin.php:382
+#: big-store/big-store-admin/woo/big-store-admin.php:418
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:57
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:261
+#: jot-shop/jot-shop-admin/woo/jot-shop-admin.php:383
+#: m-shop/m-shop-admin/woo/m-shop-admin.php:106
+#: m-shop/m-shop-admin/woo/m-shop-admin.php:288
+#: m-shop/m-shop-admin/woo/m-shop-admin.php:395
+msgid "No products found"
+msgstr "Товаров не обнаружено"
+
+#: big-store/demo/import.php:18
+msgid "Big Store Default"
+msgstr "Big Store по умолчанию"
+
+#: big-store/demo/import.php:9
+msgid "Big Store Electro"
+msgstr "Big Store Электро"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:188
+#: big-store/customizer/section/frontpage/ribbon.php:110
+#: jot-shop/customizer/section/frontpage/ribbon.php:133
+#: m-shop/customizer/section/frontpage/ribbon.php:110
+msgid "Text"
+msgstr "Текст"
+
+#: amaz-store/customizer/section/frontpage/banner.php:174
+#: amaz-store/customizer/section/frontpage/category-slider.php:121
+#: amaz-store/customizer/section/frontpage/category-tab.php:102
+#: amaz-store/customizer/section/frontpage/higlight.php:71
+#: amaz-store/customizer/section/frontpage/product-list.php:96
+#: amaz-store/customizer/section/frontpage/product-slide.php:111
+#: amaz-store/customizer/section/frontpage/ribbon.php:230
+#: amaz-store/customizer/section/frontpage/top-slider.php:422
+#: big-store/customizer/section/frontpage/banner.php:174
+#: big-store/customizer/section/frontpage/category-slider.php:121
+#: big-store/customizer/section/frontpage/category-tab.php:102
+#: big-store/customizer/section/frontpage/higlight.php:71
+#: big-store/customizer/section/frontpage/product-list.php:96
+#: big-store/customizer/section/frontpage/product-slide.php:109
+#: big-store/customizer/section/frontpage/ribbon.php:152
+#: big-store/customizer/section/frontpage/tab-productimage.php:118
+#: big-store/customizer/section/frontpage/top-slider.php:339
+#: jot-shop/customizer/section/frontpage/banner.php:174
+#: jot-shop/customizer/section/frontpage/category-slider.php:121
+#: jot-shop/customizer/section/frontpage/category-tab.php:102
+#: jot-shop/customizer/section/frontpage/higlight.php:71
+#: jot-shop/customizer/section/frontpage/product-list.php:96
+#: jot-shop/customizer/section/frontpage/product-slide.php:111
+#: jot-shop/customizer/section/frontpage/ribbon.php:175
+#: jot-shop/customizer/section/frontpage/top-slider.php:422
+#: m-shop/customizer/section/frontpage/banner.php:174
+#: m-shop/customizer/section/frontpage/category-slider.php:121
+#: m-shop/customizer/section/frontpage/category-tab.php:102
+#: m-shop/customizer/section/frontpage/higlight.php:71
+#: m-shop/customizer/section/frontpage/product-list.php:96
+#: m-shop/customizer/section/frontpage/product-slide.php:109
+#: m-shop/customizer/section/frontpage/ribbon.php:199
+#: m-shop/customizer/section/frontpage/tab-productimage.php:118
+#: m-shop/customizer/section/frontpage/top-slider.php:112
+msgid "To know more go with this"
+msgstr "Чтобы узнать больше, перейдите сюда"
+
+#: amaz-store/customizer/section/frontpage/banner.php:23
+#: big-store/customizer/section/frontpage/banner.php:23
+#: jot-shop/customizer/section/frontpage/banner.php:23
+#: m-shop/customizer/section/frontpage/banner.php:23
+msgid "Layout"
+msgstr "Макет"
+
+#: amaz-store/customizer/section/frontpage/category-tab.php:14
+#: big-store/customizer/section/frontpage/category-tab.php:14
+#: jot-shop/customizer/section/frontpage/category-tab.php:14
+#: m-shop/customizer/section/frontpage/category-tab.php:14
+#: m-shop/m-shop-front-page/front-tabproduct.php:13
+msgid "Tabbed Product Carousel"
+msgstr "Карусель похожих товаров"
+
+#: amaz-store/customizer/section/frontpage/category-slider.php:15
+#: big-store/customizer/section/frontpage/category-slider.php:15
+#: jot-shop/customizer/section/frontpage/category-slider.php:15
+#: m-shop/customizer/section/frontpage/category-slider.php:15
+#: m-shop/m-shop-front-page/front-categoryslider.php:14
+msgid "Woo Category"
+msgstr "Категория WooCommerce"
+
+#: big-store/customizer/section/frontpage/tab-productimage.php:15
+#: m-shop/customizer/section/frontpage/tab-productimage.php:15
+#: m-shop/m-shop-front-page/front-tabproductimage.php:19
+msgid "Product Tab Image Carousel"
+msgstr "Карусель изображений вкладки Товар"
+
+#: amaz-store/customizer/section/frontpage/product-slide.php:26
+#: big-store/customizer/section/frontpage/product-slide.php:24
+#: jot-shop/customizer/section/frontpage/product-slide.php:26
+#: m-shop/customizer/section/frontpage/product-slide.php:24
+#: m-shop/m-shop-front-page/front-productslider.php:11
+msgid "Product Carousel"
+msgstr "Карусель товаров"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:95
+#: amaz-store/customizer/section/frontpage/top-slider.php:401
+#: big-store/customizer/section/frontpage/ribbon.php:66
+#: big-store/customizer/section/frontpage/top-slider.php:305
+#: jot-shop/customizer/section/frontpage/ribbon.php:65
+#: jot-shop/customizer/section/frontpage/top-slider.php:401
+#: m-shop/customizer/section/frontpage/ribbon.php:66
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: amaz-store/customizer/section/frontpage/banner.php:69
+#: amaz-store/customizer/section/frontpage/banner.php:92
+#: amaz-store/customizer/section/frontpage/banner.php:116
+#: amaz-store/customizer/section/frontpage/banner.php:139
+#: amaz-store/customizer/section/frontpage/banner.php:161
+#: amaz-store/customizer/section/frontpage/top-slider.php:195
+#: amaz-store/customizer/section/frontpage/top-slider.php:215
+#: amaz-store/customizer/section/frontpage/top-slider.php:245
+#: amaz-store/customizer/section/frontpage/top-slider.php:277
+#: amaz-store/customizer/section/frontpage/top-slider.php:301
+#: amaz-store/customizer/section/frontpage/top-slider.php:321
+#: amaz-store/customizer/section/frontpage/top-slider.php:342
+#: big-store/customizer/section/frontpage/banner.php:69
+#: big-store/customizer/section/frontpage/banner.php:92
+#: big-store/customizer/section/frontpage/banner.php:116
+#: big-store/customizer/section/frontpage/banner.php:139
+#: big-store/customizer/section/frontpage/banner.php:161
+#: big-store/customizer/section/frontpage/top-slider.php:123
+#: big-store/customizer/section/frontpage/top-slider.php:143
+#: big-store/customizer/section/frontpage/top-slider.php:173
+#: big-store/customizer/section/frontpage/top-slider.php:194
+#: big-store/customizer/section/frontpage/top-slider.php:214
+#: big-store/customizer/section/frontpage/top-slider.php:235
+#: jot-shop/customizer/section/frontpage/banner.php:69
+#: jot-shop/customizer/section/frontpage/banner.php:92
+#: jot-shop/customizer/section/frontpage/banner.php:116
+#: jot-shop/customizer/section/frontpage/banner.php:139
+#: jot-shop/customizer/section/frontpage/banner.php:161
+#: jot-shop/customizer/section/frontpage/top-slider.php:195
+#: jot-shop/customizer/section/frontpage/top-slider.php:215
+#: jot-shop/customizer/section/frontpage/top-slider.php:245
+#: jot-shop/customizer/section/frontpage/top-slider.php:277
+#: jot-shop/customizer/section/frontpage/top-slider.php:301
+#: jot-shop/customizer/section/frontpage/top-slider.php:321
+#: jot-shop/customizer/section/frontpage/top-slider.php:342
+#: m-shop/customizer/section/frontpage/banner.php:69
+#: m-shop/customizer/section/frontpage/banner.php:92
+#: m-shop/customizer/section/frontpage/banner.php:116
+#: m-shop/customizer/section/frontpage/banner.php:139
+#: m-shop/customizer/section/frontpage/banner.php:161
+msgid "url"
+msgstr "url"
+
+#: amaz-store/customizer/section/frontpage/higlight.php:42
+#: big-store/customizer/section/frontpage/higlight.php:42
+#: jot-shop/customizer/section/frontpage/higlight.php:42
+#: m-shop/customizer/section/frontpage/higlight.php:42
+msgid "Feature"
+msgstr "Особенность"
+
+#: amaz-store/customizer/section/frontpage/product-list.php:30
+#: amaz-store/customizer/section/frontpage/product-slide.php:43
+#: big-store/customizer/section/frontpage/product-list.php:30
+#: big-store/customizer/section/frontpage/product-slide.php:41
+#: jot-shop/customizer/section/frontpage/product-list.php:30
+#: jot-shop/customizer/section/frontpage/product-slide.php:43
+#: m-shop/customizer/section/frontpage/blog.php:43
+#: m-shop/customizer/section/frontpage/product-list.php:30
+#: m-shop/customizer/section/frontpage/product-slide.php:41
+msgid "Select Category"
+msgstr "Выберите рубрику"
+
+#: amaz-store/customizer/section/frontpage/top-slider.php:63
+#: amaz-store/customizer/section/frontpage/top-slider.php:95
+#: big-store/customizer/section/frontpage/top-slider.php:58
+#: jot-shop/customizer/section/frontpage/top-slider.php:63
+#: jot-shop/customizer/section/frontpage/top-slider.php:95
+#: m-shop/customizer/section/frontpage/top-slider.php:63
+msgid "Slide"
+msgstr "Слайд"
+
+#: amaz-store/customizer/section/frontpage/product-list.php:14
+#: big-store/customizer/section/frontpage/product-list.php:14
+#: jot-shop/customizer/section/frontpage/product-list.php:14
+#: m-shop/customizer/section/frontpage/product-list.php:14
+msgid "Product List Carousel"
+msgstr "Карусель списка товаров"
+
+#: amaz-store/customizer/section/frontpage/banner.php:57
+#: amaz-store/customizer/section/frontpage/top-slider.php:185
+#: amaz-store/customizer/section/frontpage/top-slider.php:291
+#: big-store/customizer/section/frontpage/banner.php:57
+#: big-store/customizer/section/frontpage/top-slider.php:113
+#: big-store/customizer/section/frontpage/top-slider.php:184
+#: jot-shop/customizer/section/frontpage/banner.php:57
+#: jot-shop/customizer/section/frontpage/top-slider.php:185
+#: jot-shop/customizer/section/frontpage/top-slider.php:291
+#: m-shop/customizer/section/frontpage/banner.php:57
+msgid "Image 1"
+msgstr "Изображение 1"
+
+#: amaz-store/customizer/section/frontpage/banner.php:80
+#: amaz-store/customizer/section/frontpage/top-slider.php:205
+#: amaz-store/customizer/section/frontpage/top-slider.php:311
+#: big-store/customizer/section/frontpage/banner.php:80
+#: big-store/customizer/section/frontpage/top-slider.php:133
+#: big-store/customizer/section/frontpage/top-slider.php:204
+#: jot-shop/customizer/section/frontpage/banner.php:80
+#: jot-shop/customizer/section/frontpage/top-slider.php:205
+#: jot-shop/customizer/section/frontpage/top-slider.php:311
+#: m-shop/customizer/section/frontpage/banner.php:80
+msgid "Image 2"
+msgstr "Изображение 2"
+
+#: amaz-store/customizer/section/frontpage/banner.php:104
+#: amaz-store/customizer/section/frontpage/top-slider.php:332
+#: big-store/customizer/section/frontpage/banner.php:104
+#: big-store/customizer/section/frontpage/top-slider.php:225
+#: jot-shop/customizer/section/frontpage/banner.php:104
+#: jot-shop/customizer/section/frontpage/top-slider.php:332
+#: m-shop/customizer/section/frontpage/banner.php:104
+msgid "Image 3"
+msgstr "Изображения 3"
+
+#: amaz-store/customizer/section/frontpage/banner.php:129
+#: big-store/customizer/section/frontpage/banner.php:129
+#: jot-shop/customizer/section/frontpage/banner.php:129
+#: m-shop/customizer/section/frontpage/banner.php:129
+msgid "Image 4"
+msgstr "Изображения 4"
+
+#: amaz-store/customizer/section/frontpage/banner.php:151
+#: big-store/customizer/section/frontpage/banner.php:151
+#: jot-shop/customizer/section/frontpage/banner.php:151
+#: m-shop/customizer/section/frontpage/banner.php:151
+msgid "Image 5"
+msgstr "Изображения 5"
+
+#: amaz-store/customizer/section/frontpage/higlight.php:41
+#: big-store/customizer/section/frontpage/higlight.php:41
+#: jot-shop/customizer/section/frontpage/higlight.php:41
+#: m-shop/customizer/section/frontpage/higlight.php:41
+msgid "Add new Feature"
+msgstr "Добавить новую функцию"
+
+#: amaz-store/customizer/section/frontpage/top-slider.php:62
+#: amaz-store/customizer/section/frontpage/top-slider.php:94
+#: big-store/customizer/section/frontpage/top-slider.php:57
+#: jot-shop/customizer/section/frontpage/top-slider.php:62
+#: jot-shop/customizer/section/frontpage/top-slider.php:94
+#: m-shop/customizer/section/frontpage/top-slider.php:62
+msgid "Add new Slide"
+msgstr "Добавить новый слайд"
+
+#: amaz-store/customizer/section/frontpage/category-tab.php:48
+#: amaz-store/customizer/section/frontpage/product-list.php:43
+#: amaz-store/customizer/section/frontpage/product-slide.php:56
+#: big-store/customizer/section/frontpage/category-tab.php:48
+#: big-store/customizer/section/frontpage/product-list.php:43
+#: big-store/customizer/section/frontpage/product-slide.php:54
+#: big-store/customizer/section/frontpage/tab-productimage.php:50
+#: jot-shop/customizer/section/frontpage/category-tab.php:48
+#: jot-shop/customizer/section/frontpage/product-list.php:43
+#: jot-shop/customizer/section/frontpage/product-slide.php:56
+#: m-shop/customizer/section/frontpage/category-tab.php:48
+#: m-shop/customizer/section/frontpage/product-list.php:43
+#: m-shop/customizer/section/frontpage/product-slide.php:54
+#: m-shop/customizer/section/frontpage/tab-productimage.php:50
+msgid "Choose Option"
+msgstr "Выбрать вариант"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:49
+#: big-store/customizer/section/frontpage/ribbon.php:19
+#: jot-shop/customizer/section/frontpage/ribbon.php:19
+#: m-shop/customizer/section/frontpage/ribbon.php:19
+msgid "Choose Ribbon Background"
+msgstr "Выберите фон ленты"
+
+#: amaz-store/customizer/section/frontpage/banner.php:7
+#: amaz-store/customizer/section/frontpage/category-slider.php:7
+#: amaz-store/customizer/section/frontpage/category-tab.php:7
+#: amaz-store/customizer/section/frontpage/higlight.php:7
+#: amaz-store/customizer/section/frontpage/product-list.php:7
+#: amaz-store/customizer/section/frontpage/product-slide.php:19
+#: amaz-store/customizer/section/frontpage/ribbon.php:9
+#: amaz-store/customizer/section/frontpage/top-slider.php:7
+#: jot-shop/customizer/section/frontpage/banner.php:7
+#: jot-shop/customizer/section/frontpage/category-slider.php:7
+#: jot-shop/customizer/section/frontpage/category-tab.php:7
+#: jot-shop/customizer/section/frontpage/higlight.php:7
+#: jot-shop/customizer/section/frontpage/product-list.php:7
+#: jot-shop/customizer/section/frontpage/product-slide.php:19
+#: jot-shop/customizer/section/frontpage/ribbon.php:7
+#: jot-shop/customizer/section/frontpage/top-slider.php:7
+#: m-shop/customizer/section/frontpage/banner.php:7
+#: m-shop/customizer/section/frontpage/blog.php:7
+#: m-shop/customizer/section/frontpage/category-slider.php:7
+#: m-shop/customizer/section/frontpage/category-tab.php:7
+#: m-shop/customizer/section/frontpage/higlight.php:7
+#: m-shop/customizer/section/frontpage/product-list.php:7
+#: m-shop/customizer/section/frontpage/product-slide.php:17
+#: m-shop/customizer/section/frontpage/ribbon.php:7
+#: m-shop/customizer/section/frontpage/tab-productimage.php:7
+#: m-shop/customizer/section/frontpage/testimonial.php:7
+#: m-shop/customizer/section/frontpage/top-slider.php:7
+msgid "Disable Section"
+msgstr "Отключить раздел"
+
+#: amaz-store/customizer/section/frontpage/category-slider.php:65
+#: amaz-store/customizer/section/frontpage/category-tab.php:33
+#: big-store/customizer/section/frontpage/category-slider.php:65
+#: big-store/customizer/section/frontpage/category-tab.php:33
+#: big-store/customizer/section/frontpage/tab-productimage.php:35
+#: jot-shop/customizer/section/frontpage/category-slider.php:65
+#: jot-shop/customizer/section/frontpage/category-tab.php:33
+#: m-shop/customizer/section/frontpage/category-slider.php:65
+#: m-shop/customizer/section/frontpage/category-tab.php:33
+#: m-shop/customizer/section/frontpage/tab-productimage.php:35
+msgid "Choose Categories To Show"
+msgstr "Выберите категории для показа"
+
+#: amaz-store/customizer/section/frontpage/higlight.php:38
+#: big-store/customizer/section/frontpage/higlight.php:38
+#: jot-shop/customizer/section/frontpage/higlight.php:38
+#: m-shop/customizer/section/frontpage/higlight.php:38
+msgid "Highlight Content"
+msgstr "Выделить содержимое"
+
+#: amaz-store/amaz-store-front-page/front-topslider.php:18
+#: big-store/customizer/section/frontpage/top-slider.php:240
+#: jot-shop/jot-shop-front-page/front-topslider.php:18
+msgid "Market"
+msgstr "Market"
+
+#: amaz-store/customizer/section/frontpage/top-slider.php:60
+#: amaz-store/customizer/section/frontpage/top-slider.php:92
+#: big-store/customizer/section/frontpage/top-slider.php:55
+#: jot-shop/customizer/section/frontpage/top-slider.php:60
+#: jot-shop/customizer/section/frontpage/top-slider.php:92
+#: m-shop/customizer/section/frontpage/top-slider.php:60
+msgid "Slide Content"
+msgstr "Содержимое слайда"
+
+#: amaz-store/customizer/section/frontpage/top-slider.php:26
+#: big-store/customizer/section/frontpage/top-slider.php:23
+#: jot-shop/customizer/section/frontpage/top-slider.php:26
+#: m-shop/customizer/section/frontpage/top-slider.php:23
+msgid "Slider Layout"
+msgstr "Макет слайдера"
+
+#: amaz-store/customizer/section/frontpage/category-slider.php:38
+#: big-store/customizer/section/frontpage/category-slider.php:38
+#: jot-shop/customizer/section/frontpage/category-slider.php:38
+#: m-shop/customizer/section/frontpage/category-slider.php:38
+msgid "Category Layout"
+msgstr "Макет категории"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:126
+#: big-store/customizer/section/frontpage/ribbon.php:97
+#: jot-shop/customizer/section/frontpage/ribbon.php:96
+#: m-shop/customizer/section/frontpage/ribbon.php:97
+msgid "Upload Video Poster Image"
+msgstr "Загрузить изображение для видеопостера"
+
+#: amaz-store/customizer/section/frontpage/category-slider.php:95
+#: amaz-store/customizer/section/frontpage/category-tab.php:77
+#: amaz-store/customizer/section/frontpage/product-list.php:71
+#: amaz-store/customizer/section/frontpage/product-slide.php:85
+#: amaz-store/customizer/section/frontpage/top-slider.php:122
+#: jot-shop/customizer/section/frontpage/category-slider.php:95
+#: jot-shop/customizer/section/frontpage/category-tab.php:77
+#: jot-shop/customizer/section/frontpage/product-list.php:71
+#: jot-shop/customizer/section/frontpage/product-slide.php:85
+#: jot-shop/customizer/section/frontpage/top-slider.php:122
+#: m-shop/customizer/section/frontpage/category-slider.php:95
+#: m-shop/customizer/section/frontpage/category-tab.php:77
+#: m-shop/customizer/section/frontpage/product-list.php:71
+#: m-shop/customizer/section/frontpage/product-slide.php:83
+#: m-shop/customizer/section/frontpage/tab-productimage.php:67
+#: m-shop/customizer/section/frontpage/top-slider.php:86
+msgid "Slide Auto Play"
+msgstr "Автовоспроизведение слайдов"
+
+#: amaz-store/customizer/section/frontpage/category-slider.php:21
+#: amaz-store/customizer/section/frontpage/category-tab.php:20
+#: amaz-store/customizer/section/frontpage/product-list.php:20
+#: amaz-store/customizer/section/frontpage/product-slide.php:32
+#: big-store/customizer/section/frontpage/category-slider.php:21
+#: big-store/customizer/section/frontpage/category-tab.php:20
+#: big-store/customizer/section/frontpage/product-list.php:20
+#: big-store/customizer/section/frontpage/product-slide.php:30
+#: big-store/customizer/section/frontpage/tab-productimage.php:21
+#: jot-shop/customizer/section/frontpage/category-slider.php:21
+#: jot-shop/customizer/section/frontpage/category-tab.php:20
+#: jot-shop/customizer/section/frontpage/product-list.php:20
+#: jot-shop/customizer/section/frontpage/product-slide.php:32
+#: m-shop/customizer/section/frontpage/blog.php:21
+#: m-shop/customizer/section/frontpage/category-slider.php:21
+#: m-shop/customizer/section/frontpage/category-tab.php:20
+#: m-shop/customizer/section/frontpage/product-list.php:20
+#: m-shop/customizer/section/frontpage/product-slide.php:30
+#: m-shop/customizer/section/frontpage/tab-productimage.php:21
+msgid "Section Heading"
+msgstr "Заголовок раздела"
+
+#: featuredlite/customizer/customizer.php:368
+msgid "Skype URL"
+msgstr "URL-адрес Skype"
+
+#: featuredlite/customizer/customizer.php:357
+msgid "Instagram URL"
+msgstr "URL-адрес Instagram"
+
+#: featuredlite/demo/import-data.php:9
+msgid "Featuredlite Default"
+msgstr "Рекомендуемые по умолчанию"
+
+#: shopline/demo/import-shopline-data.php:7
+msgid "Shopline Demo 1"
+msgstr "Shopline Demo 1"
+
+#: shopline/demo/import-shopline-data.php:16
+msgid "Shopline Demo 2"
+msgstr "Shopline Demo 2"
+
+#: shopline/demo/import-shopline-data.php:25
+msgid "Shopline Demo 3"
+msgstr "Shopline Demo 3"
+
+#: shopline/demo/import-shopline-data.php:34
+msgid "Shopline Demo 4"
+msgstr "Shopline Demo 4"
+
+#: amaz-store/demo/import.php:16 big-store/demo/import.php:15
+#: big-store/demo/import.php:24 featuredlite/demo/import-data.php:13
+#: jot-shop/demo/import.php:16 jot-shop/demo/import.php:25
+#: jot-shop/demo/import.php:34 m-shop/demo/import.php:15
+#: m-shop/demo/import.php:24 oneline-lite/demo/import-data.php:13
+#: oneline-lite/demo/import-data.php:21 oneline-lite/demo/import-data.php:29
+#: shopline/demo/import-shopline-data.php:13
+#: shopline/demo/import-shopline-data.php:22
+#: shopline/demo/import-shopline-data.php:31
+#: shopline/demo/import-shopline-data.php:40
+msgid "Before importing the demo data, Install & Activate the recommended plugins."
+msgstr "Перед импортом демо данных установите и активируйте рекомендуемые плагины."
+
+#: oneline-lite/customizer/customizer.php:1410
+msgid "Full Address"
+msgstr "Адрес"
+
+#: oneline-lite/customizer/customizer.php:1387
+msgid "Lead Form Builder Plugin Shortcode Insert."
+msgstr "Поддерживается вставка шорткода плагина Lead Form Builder."
+
+#: oneline-lite/customizer/customizer.php:1271
+msgid "(Enter number of post which you want to show.)"
+msgstr "(Введите количество записей для отображения.)"
+
+#: oneline-lite/customizer/customizer.php:1136
+msgid "Woocommerce Section"
+msgstr "Раздел Woocommerce"
+
+#: oneline-lite/customizer/customizer.php:1107
+msgid "Url & Border Color"
+msgstr "Цвет текста и подчёркивания ссылок"
+
+#: oneline-lite/customizer/customizer.php:702
+msgid "Services Section"
+msgstr "Раздел Услуги"
+
+#: oneline-lite/customizer/customizer.php:682
+msgid "For More Slider"
+msgstr "Добавить еще слайдер"
+
+#: oneline-lite/customizer/customizer.php:617
+msgid "Third Slider Setting"
+msgstr "Настройка третьего слайдера"
+
+#: oneline-lite/customizer/customizer.php:552
+msgid "Second Slider Setting"
+msgstr "Настройка второго слайдера"
+
+#: oneline-lite/customizer/customizer.php:520
+#: oneline-lite/customizer/customizer.php:585
+#: oneline-lite/customizer/customizer.php:650
+msgid "Link for Heading"
+msgstr "Ссылка для Шапки"
+
+#: oneline-lite/customizer/customizer.php:488
+msgid "First Slider Setting"
+msgstr "Настройка первого слайдера"
+
+#: oneline-lite/customizer/customizer.php:410
+#: oneline-lite/customizer/customizer.php:414
+msgid "Slider Setting"
+msgstr "Настройка Слайдера"
+
+#: oneline-lite/customizer/customizer.php:95
+msgid "Disable SVG effect ?"
+msgstr "Отключить эффект SVG?"
+
+#: oneline-lite/widget/testimonial.php:84
+msgid "Author Website Url"
+msgstr "Ссылка на сайт Автора"
+
+#: oneline-lite/widget/team.php:171
+msgid "Designation Color"
+msgstr "Цвет отметки на карте"
+
+#: oneline-lite/widget/services.php:22 oneline-lite/widget/team.php:21
+#: oneline-lite/widget/testimonial.php:22
+msgid "New Title"
+msgstr "Новый заголовок"
+
+#: themehunk/customizer-font-selector/class/class-oneline-font-selector.php:56
+msgid "Default"
+msgstr "По умолчанию"
+
+#: themehunk/widget.php:26
+msgid "Add Testimonial Widget"
+msgstr "Добавить виджет Отзывы"
+
+#: themehunk/widget.php:24
+msgid "Testimonial Widget"
+msgstr "Отзывы - Виджет"
+
+#: themehunk/widget.php:16
+msgid "Add Team Widget"
+msgstr "Добавить виджет Команда"
+
+#: themehunk/widget.php:14
+msgid "Team Widget"
+msgstr "Виджет Команда"
+
+#: themehunk/widget.php:7
+msgid "Add Service Widget"
+msgstr "Добавить виджет Услуги"
+
+#: themehunk/widget.php:5
+msgid "Service Widget"
+msgstr "Виджет Услуги"
+
+#: elanzalite/inc/install.php:23
+msgid "Add desired magazine post widgets. Widgets added in this area will display in fullwidth. You can also re-order widgets using drag and drop feature."
+msgstr "Добавьте нужные виджеты из журнала. Виджеты, добавленные в этой области, будут отображаться в полную ширину. Вы также можете изменить порядок виджетов, используя функцию перетаскивания."
+
+#: elanzalite/inc/install.php:21
+msgid "Magazine Content Area"
+msgstr "Область содержимого журнала"
+
+#: elanzalite/inc/shortcode.php:45
+msgid "Continue Reading"
+msgstr "Продолжить чтение"
+
+#: elanzalite/inc/shortcode.php:32
+msgid ","
+msgstr ","
+
+#: elanzalite/customizer/customizer.php:3027
+msgid "%s"
+msgstr "%s"
+
+#: elanzalite/customizer/customizer.php:2974
+msgid "View All Button"
+msgstr "Кнопка Просмотреть всё"
+
+#: elanzalite/customizer/customizer.php:2915
+msgid "Menu Background Color"
+msgstr "Цвет фона меню"
+
+#: elanzalite/customizer/customizer.php:2898
+msgid "Google Adsense / Custom Ad Generate <a target=\"_blank\" href=\"//www.google.com/adsense/start/\">Google Adsense</a> code and paste it below."
+msgstr "Код Google Adsense / вставьте сгенерированный код <a target=\"_blank\" href=\"//www.google.com/adsense/start/\">Google Adsense</a> и вставьте его в поле."
+
+#: elanzalite/customizer/customizer.php:2897
+msgid "Adsense Code"
+msgstr "Код Adsense"
+
+#: elanzalite/customizer/customizer.php:2875
+msgid "Upload Ad Image"
+msgstr "Загрузите картинку объявления"
+
+#: elanzalite/customizer/customizer.php:2798
+msgid "Boxed Layout"
+msgstr "Макет с фиксированной шириной"
+
+#: elanzalite/customizer/customizer.php:2794
+msgid "Magazine Template"
+msgstr "Шаблон Журнал"
+
+#: elanzalite/customizer/customizer.php:2764
+msgid "Anchor Tag (a)"
+msgstr "Тег якоря"
+
+#: elanzalite/customizer/customizer.php:961
+msgid "Check here to disable Post Share in Single Page"
+msgstr "Отключить блок Поделиться на странице записи"
+
+#: elanzalite/customizer/customizer.php:959
+msgid "Disable Post Share ?"
+msgstr "Отключить кнопку Поделиться ?"
+
+#: elanzalite/customizer/customizer.php:946
+msgid "Check here to disable Post Navigation in Single Page"
+msgstr "Отключить отображение навигации на странице записи"
+
+#: elanzalite/customizer/customizer.php:944
+msgid "Disable Post Navigation ?"
+msgstr "Выключить навигацию по записям ?"
+
+#: elanzalite/customizer/customizer.php:931
+msgid "Check here to disable Tag in Single Page"
+msgstr "Отключить Теги на странице записи"
+
+#: elanzalite/customizer/customizer.php:929
+msgid "Disable Tag ?"
+msgstr "Отключить теги ?"
+
+#: elanzalite/customizer/customizer.php:898
+msgid "Check here to disable Featured Image in Single Page"
+msgstr "Отключить миниатюры на странице записи"
+
+#: elanzalite/customizer/customizer.php:896
+msgid "Disable Featured Image ?"
+msgstr "Отключить миниатюру ?"
+
+#: elanzalite/customizer/customizer.php:883
+msgid "Check here to disable Post meta in Single Page"
+msgstr "Отключить отображение мета-данных на странице записи"
+
+#: elanzalite/customizer/customizer.php:868
+msgid "Check here to disable Post Category in Single Page"
+msgstr "Отключить отображение категорий на странице записей"
+
+#: elanzalite/customizer/customizer.php:814
+msgid "Check here to disable Prefix in Archive Page"
+msgstr "Отключить префикс на странице архива"
+
+#: elanzalite/customizer/customizer.php:812
+msgid "Disable Prefix?"
+msgstr "Отключить префикс?"
+
+#: elanzalite/customizer/customizer.php:799
+msgid "Check here to disable Post share in Standard Post"
+msgstr "Отключить блок Поделиться на странице записи"
+
+#: elanzalite/customizer/customizer.php:797
+msgid "Disable Post share ?"
+msgstr "Отключить кнопку Поделиться ?"
+
+#: elanzalite/customizer/customizer.php:784
+msgid "Check here to disable Post Meta"
+msgstr "Отключить отображение метаданных записи"
+
+#: elanzalite/customizer/customizer.php:782
+#: elanzalite/customizer/customizer.php:881
+msgid "Disable Post Meta?"
+msgstr "Отключить отображение метаданных записи ?"
+
+#: elanzalite/customizer/customizer.php:756
+msgid "Check here to disable Read More Text"
+msgstr "Отключить вступительный текст"
+
+#: elanzalite/customizer/customizer.php:754
+msgid "Disable Read More?"
+msgstr "Отключить вступительный текст ?"
+
+#: elanzalite/customizer/customizer.php:737
+msgid "Post Excerpt Length"
+msgstr "Длина отрывка"
+
+#: elanzalite/customizer/customizer.php:725
+msgid "Disable Post Excerpt ?"
+msgstr "Отключить отрывки записи ?"
+
+#: elanzalite/customizer/customizer.php:712
+#: elanzalite/customizer/customizer.php:727
+msgid "Check here to disable Post Excerpt Content"
+msgstr "Отключить вывод отрывков"
+
+#: elanzalite/customizer/customizer.php:696
+msgid "Check here to disable Post Category"
+msgstr "Отключить отображение категории записи"
+
+#: elanzalite/customizer/customizer.php:657
+#: oneline-lite/customizer/customizer.php:319
+msgid "Responsive Menu Icon Color"
+msgstr "Цвет значка адаптивного меню"
+
+#: elanzalite/customizer/customizer.php:489
+msgid "Date Color"
+msgstr "Цвет даты"
+
+#: elanzalite/customizer/customizer.php:372
+msgid "Footer Widget Title Color"
+msgstr "Цвет заголовка виджета в подвале"
+
+#: elanzalite/customizer/customizer.php:355
+msgid "Footer Widget Background Color"
+msgstr "Цвет фона виджетов в подвале"
+
+#: elanzalite/customizer/customizer.php:324
+msgid "Global Color"
+msgstr "Глобальные настройки цвета"
+
+#: elanzalite/customizer/customizer.php:2822
+msgid "Header Layout"
+msgstr "Разметка заголовка"
+
+#: elanzalite/customizer/customizer.php:390
+msgid "Footer Copyright Background Color"
+msgstr "Цвет фона copyright подвала"
+
+#: elanzalite/customizer/customizer.php:408
+msgid "Footer Copyright Text Color"
+msgstr "Цвет текста copyright подвала"
+
+#: elanzalite/customizer/customizer.php:423
+msgid "Icon color"
+msgstr "Цвет значка"
+
+#: themehunk/customizer-font-selector/class/class-oneline-font-selector.php:62
+msgid "Standard Fonts"
+msgstr "Стандартные шрифты"
+
+#: themehunk/customizer-font-selector/class/class-oneline-font-selector.php:77
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: elanzalite/customizer/customizer.php:831
+msgid "Single Post"
+msgstr "Отдельная запись"
+
+#: oneline-lite/customizer/customizer.php:1088
+msgid "Author Name Color"
+msgstr "Цвет имени автора"
+
+#: elanzalite/customizer/customizer.php:3004
+msgid "Category Background Color"
+msgstr "Цвет фона категории"
+
+#: elanzalite/inc/shortcode.php:66
+msgid "Share:"
+msgstr "Поделиться:"
+
+#: elanzalite/customizer/customizer.php:456
+msgid "(Check here to Disable Top Header)"
+msgstr "(Отметьте здесь, чтобы отключить верх заголовка)"
+
+#: oneline-lite/customizer/customizer.php:381
+msgid "4 Team Section "
+msgstr "4 Раздел Команда "
+
+#: oneline-lite/customizer/customizer.php:383
+msgid "5 Blog Section"
+msgstr "5 Раздел Блог"
+
+#: oneline-lite/customizer/customizer.php:384
+msgid "8 woocommerce Section"
+msgstr "8 Раздел Woocommerce"
+
+#: oneline-lite/customizer/customizer.php:1399
+msgid "Address Heading"
+msgstr "Заголовок адреса"
+
+#: oneline-lite/customizer/customizer.php:1491
+msgid "Address Heading Color"
+msgstr "Цвет заголовка адреса"
+
+#: oneline-lite/customizer/customizer.php:1510
+msgid "Address Text Color"
+msgstr "Цвет текста адреса"
+
+#: elanzalite/customizer/customizer.php:518 oneline-lite/widget/team.php:173
+msgid "Social Icon Color"
+msgstr "Цвет значка соцсетей"
+
+#: oneline-lite/widget/team.php:159
+msgid "Social-Icon-4"
+msgstr "Значок-4 соцсетей"
+
+#: elanzalite/customizer/customizer.php:432
+msgid "Top Header Setting"
+msgstr "Настройка верха заголовка"
+
+#: elanzalite/customizer/customizer.php:454
+msgid "Top Header Hide"
+msgstr "Скрыть верх заголовка"
+
+#: oneline-lite/widget/services.php:11
+msgid "ThemeHunk : Service Widget"
+msgstr "ThemeHunk: Виджет Услуги"
+
+#: elanzalite/customizer/customizer.php:675
+#: elanzalite/customizer/customizer.php:846
+#: elanzalite/customizer/customizer.php:2956
+msgid "Sidebar Alignment"
+msgstr "Выравнивание области виджетов"
+
+#: elanzalite/customizer/customizer.php:676
+msgid "Choose sidebar option for Blog Page"
+msgstr "Выберите вариант области виджетов для страницы блога"
+
+#: elanzalite/customizer/customizer.php:694
+#: elanzalite/customizer/customizer.php:866
+msgid "Disable Post Category ?"
+msgstr "Отключить категорию записи?"
+
+#: elanzalite/customizer/customizer.php:710
+msgid "Disable Post Content ?"
+msgstr "Отключить содержимое записи?"
+
+#: elanzalite/customizer/customizer.php:847
+msgid "Choose sidebar option for Single Page"
+msgstr "Выберите вариант области виджетов для отдельной страницы"
+
+#: elanzalite/customizer/customizer.php:914
+msgid "Disable Related Post ?"
+msgstr "Отключить похожую запись ?"
+
+#: elanzalite/customizer/customizer.php:916
+msgid "Check here to disable Related Post in Single Page"
+msgstr "Отключить отображение похожей записи на отдельной странице"
+
+#: elanzalite/customizer/customizer.php:2957
+msgid "Choose sidebar option for Magazine Template"
+msgstr "Выберите область виджетов для шаблона Журнал"
+
+#: elanzalite/inc/install.php:31
+msgid "Magazine Content Area with Sidebar "
+msgstr "Область содержимого журнала с областью виджета "
+
+#: elanzalite/inc/install.php:33
+msgid "Add desired magazine post widgets. Widgets added in this area will display with sidebar. You can also re-order widgets using drag and drop feature."
+msgstr "Добавьте нужные виджеты из журнала. Виджеты, добавленные в этой области, будут отображаться в области виджетов. Вы также можете изменить порядок виджетов, перетаскивая их."
+
+#: oneline-lite/widget/services.php:81 oneline-lite/widget/team.php:163
+#: oneline-lite/widget/testimonial.php:91
+msgid "ex: http://www.abc.com"
+msgstr "напр.: http://www.abc.com"
+
+#: oneline-lite/customizer/customizer.php:97
+msgid "Check here to disable SVG in all section"
+msgstr "Отметьте, чтобы не отображать разделитель между разделами SVG"
+
+#: oneline-lite/customizer/customizer.php:1167
+msgid "Woocommerce Shortcode"
+msgstr "Шорткод WooCommerce"
+
+#: oneline-lite/customizer/customizer.php:1237
+msgid "Latest Post Section"
+msgstr "Раздел Последняя запись"
+
+#: oneline-lite/customizer/customizer.php:1350
+msgid "Contact Us Section"
+msgstr "Раздел Контакты"
+
+#: oneline-lite/customizer/customizer.php:1386
+msgid "Contact Us Shortcode"
+msgstr "Шорткод Свяжитесь с нами"
+
+#: elanzalite/customizer/customizer.php:315
+msgid "Disable back to top button ?"
+msgstr "Скрыть кнопку Наверх ?"
+
+#: elanzalite/customizer/customizer.php:276
+msgid "Text Hover Color"
+msgstr "Цвет текста при наведении"
+
+#: elanzalite/customizer/customizer.php:261
+msgid "Border Hover Color"
+msgstr "Цвет рамки при наведении"
+
+#: elanzalite/customizer/customizer.php:147
+msgid "Post Description Color"
+msgstr "Цвет Описания записи"
+
+#: elanzalite/customizer/customizer.php:132
+msgid "Post Meta Color"
+msgstr "Цвет метаданных Записи"
+
+#: elanzalite/customizer/customizer.php:100
+msgid "Slider Overlay"
+msgstr "Цвет оверлея слайдера"
+
+#: elanzalite/customizer/customizer.php:77
+msgid "Text Alignment"
+msgstr "Выравнивание текста"
+
+#: elanzalite/customizer/customizer.php:32
+msgid "Check here to disable Post Slider."
+msgstr "Отключить Слайдер записей."
+
+#: elanzalite/customizer/customizer.php:30
+msgid "Disable Post Slider ?"
+msgstr "Отключить Слайдер записей?"
+
+#: elanzalite/customizer/customizer.php:8
+msgid "Hero Post Slider"
+msgstr "Слайдер записей"
+
+#: elanzalite/widget/section-ad.php:85
+msgid "Ad Generated Here"
+msgstr "Код для вставки рекламы"
+
+#: elanzalite/widget/section-ad.php:84
+msgid "Generate <a target=\"_blank\" href=\"https://www.google.com/adsense/start/\">Google Adsense</a> code and paste it below."
+msgstr "Сгенерируйте <a target=\"_blank\" href=\"https://www.google.com/adsense/start/\">код Google Adsense</a> и вставьте его ниже."
+
+#: elanzalite/widget/section-ad.php:76
+msgid "Banner Link"
+msgstr "Ссылка баннера"
+
+#: elanzalite/widget/section-ad.php:65
+msgid "Banner Image"
+msgstr "Изображение баннера"
+
+#: elanzalite/widget/section-ad.php:22
+msgid "Add Ad code Here"
+msgstr "Вставьте Код объявления"
+
+#: elanzalite/widget/section-ad.php:12
+msgid "THunk : Ad Widget"
+msgstr "Thunk: Рекламный Виджет"
+
+#: elanzalite/widget/about-widget.php:11
+msgid "THunk : About Me"
+msgstr "THunk : О Нас"
+
+#: elanzalite/widget/section-one.php:21 elanzalite/widget/section-one.php:133
+#: elanzalite/widget/section-one.php:187
+msgid "Latest Post Title"
+msgstr "Заголовок последней записи"
+
+#: elanzalite/widget/section-news.php:138
+msgid "Post Tilte Color:"
+msgstr "Цвет заголовка записи:"
+
+#: elanzalite/widget/section-news.php:135
+msgid "Tilte Color:"
+msgstr "Цвет заголовка:"
+
+#: elanzalite/widget/section-news.php:12
+msgid "THunk : News Slider"
+msgstr "THunk : Слайдер новостей"
+
+#: elanzalite/widget/recent-post.php:157
+msgid "Post Excerpt length"
+msgstr "Длина отрывка"
+
+#: elanzalite/widget/recent-post.php:152
+msgid "Show Post Excerpt"
+msgstr "Отображать отрывок"
+
+#: elanzalite/widget/recent-post.php:145
+msgid "Random Sort Post"
+msgstr "Случайная сортировка"
+
+#: elanzalite/widget/recent-post.php:143
+msgid "Title Sort Post"
+msgstr "Сортировать по заголовкам"
+
+#: elanzalite/widget/recent-post.php:142
+msgid "Recent Sort Post"
+msgstr "Сортировать по дате"
+
+#: elanzalite/widget/recent-post.php:140
+msgid "Post Sort"
+msgstr "Сортировка записей"
+
+#: elanzalite/widget/section-two.php:19 elanzalite/widget/section-two.php:87
+msgid "Top Stories"
+msgstr "Главные новости"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:21
+#: elanzalite/widget/section-five.php:19
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:21
+#: oneline-lite/widget/services.php:20 oneline-lite/widget/testimonial.php:20
+msgid "writing your description"
+msgstr "ваше описание"
+
+#: elanzalite/widget/section-one.php:19 elanzalite/widget/section-one.php:131
+#: elanzalite/widget/section-one.php:166
+#: elanzalite/widget/section-three.php:130
+#: elanzalite/widget/section-two.php:106
+msgid "Featured Post Title"
+msgstr "Заголовок записи Избранное"
+
+#: elanzalite/widget/section-five.php:213
+#: elanzalite/widget/section-five.php:228
+#: elanzalite/widget/section-four.php:125 elanzalite/widget/section-one.php:176
+#: elanzalite/widget/section-one.php:194
+#: elanzalite/widget/section-three.php:140
+#: elanzalite/widget/section-two.php:117
+msgid "Title Background Color:"
+msgstr "Цвет фона заголовка:"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:117
+#: elanzalite/widget/section-four.php:115
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:117
+msgid "Latest News Title"
+msgstr "Заголовок последних новостей"
+
+#: featuredlite/inc/shortcode.php:315
+msgid "Contact us"
+msgstr "Связаться с нами"
+
+#: featuredlite/inc/shortcode.php:274
+msgid "Happy Customers"
+msgstr "Счастливые Клиенты"
+
+#: featuredlite/inc/shortcode.php:264
+msgid "Consultant"
+msgstr "Консультант"
+
+#: featuredlite/inc/shortcode.php:240
+msgid "Im a simple man with complex tastes."
+msgstr "Я простой человек с изощрённым вкусом."
+
+#: featuredlite/inc/shortcode.php:232
+msgid "Chairman"
+msgstr "Председатель"
+
+#: featuredlite/inc/shortcode.php:229 featuredlite/inc/shortcode.php:251
+#: featuredlite/inc/shortcode.php:261
+msgid "Im just very selective about the reality I choose to accept. "
+msgstr "Я избирателен в выборе продукта. "
+
+#: featuredlite/inc/shortcode.php:211
+msgid "Our Perfect Team"
+msgstr "Наша идеальная команда"
+
+#: featuredlite/inc/shortcode.php:171 featuredlite/inc/shortcode.php:177
+#: featuredlite/inc/shortcode.php:183 featuredlite/inc/shortcode.php:189
+#: featuredlite/inc/shortcode.php:195 featuredlite/inc/shortcode.php:201
+msgid "sitemap planner"
+msgstr "планировщик карты сайта"
+
+#: featuredlite/inc/shortcode.php:155
+msgid "Our Services"
+msgstr "Наши Услуги"
+
+#: featuredlite/inc/shortcode.php:110
+msgid "About Us"
+msgstr "О нас"
+
+#: featuredlite/inc/shortcode.php:68
+msgid "Unlimited options"
+msgstr "Неограниченные возможности"
+
+#: featuredlite/inc/shortcode.php:56 featuredlite/inc/shortcode.php:73
+#: featuredlite/inc/shortcode.php:90
+msgid "Lorem Ipsum is simply dummy text"
+msgstr "Lorem Ipsum is simply dummy text"
+
+#: featuredlite/inc/shortcode.php:20 featuredlite/inc/shortcode.php:22
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: featuredlite/inc/shortcode.php:11
+msgid "BEAUTIFUL WORDPRESS BUSINESS THEMES"
+msgstr "ПРЕКРАСНЫЕ ТЕМЫ WORDPRESS"
+
+#: featuredlite/customizer/customizer.php:2148
+#: oneline-lite/customizer/customizer.php:1521
+msgid "Add New Section"
+msgstr "Добавить новый раздел"
+
+#: featuredlite/customizer/customizer.php:2135
+msgid "Map Address"
+msgstr "Адрес"
+
+#: featuredlite/customizer/customizer.php:2077
+msgid "Leadform Shortcode"
+msgstr "Шорткод Leadform"
+
+#: featuredlite/customizer/customizer.php:2033
+msgid "Icon & Text Color"
+msgstr "Цвет значка и текста"
+
+#: featuredlite/customizer/customizer.php:1992
+msgid "Contact Background Color"
+msgstr "Цвет фона для раздела Контакты"
+
+#: featuredlite/customizer/customizer.php:1973
+msgid "Contact Section"
+msgstr "Раздел Контакты"
+
+#: featuredlite/customizer/customizer.php:1889
+#: oneline-lite/customizer/customizer.php:1049
+msgid "Testimonial Section"
+msgstr "Раздел Отзывы"
+
+#: featuredlite/customizer/customizer.php:1831
+msgid "Number of visible post "
+msgstr "Количество отображаемых записей "
+
+#: featuredlite/customizer/customizer.php:1806
+msgid "Featured Post Category"
+msgstr "Рекомендуемые статьи в категории"
+
+#: featuredlite/customizer/customizer.php:1767
+msgid "Latest News & Blogs"
+msgstr "Последние новости и блоги"
+
+#: featuredlite/customizer/customizer.php:1763
+msgid "Recent Post Section"
+msgstr "Раздел последних записей"
+
+#: featuredlite/customizer/customizer.php:1666
+#: featuredlite/customizer/customizer.php:1672
+msgid "WooCommerce Section"
+msgstr "Раздел Woocommerce"
+
+#: featuredlite/customizer/customizer.php:1582
+#: oneline-lite/customizer/customizer.php:967
+msgid "Team Section"
+msgstr "Раздел Команда"
+
+#: featuredlite/customizer/customizer.php:1503
+msgid "About Us Section"
+msgstr "Раздел О нас"
+
+#: featuredlite/customizer/customizer.php:1491
+msgid "Column Description Color"
+msgstr "Цвет колонки описания"
+
+#: featuredlite/customizer/customizer.php:1479
+msgid "Column Heading Color"
+msgstr "Цвет заголовка столбца"
+
+#: featuredlite/customizer/customizer.php:1466
+msgid "Column Background Color"
+msgstr "Цвет фона столбца"
+
+#: featuredlite/customizer/customizer.php:1378
+msgid "Service Section"
+msgstr "Раздел Услуги"
+
+#: featuredlite/customizer/customizer.php:1239
+msgid "Second Ribbon"
+msgstr "Вторая Лента"
+
+#: featuredlite/customizer/customizer.php:1100
+msgid "First Ribbon"
+msgstr "Первая Лента"
+
+#: featuredlite/customizer/customizer.php:1095
+#: oneline-lite/customizer/customizer.php:780
+msgid "Ribbon Section"
+msgstr "Раздел Лента"
+
+#: featuredlite/customizer/customizer.php:1073
+msgid "Leadform Setting"
+msgstr "Настройка Leadform"
+
+#: amaz-store/customizer/section/frontpage/top-slider.php:227
+#: amaz-store/customizer/section/frontpage/top-slider.php:259
+#: big-store/customizer/section/frontpage/top-slider.php:155
+#: featuredlite/customizer/customizer.php:951
+#: jot-shop/customizer/section/frontpage/top-slider.php:227
+#: jot-shop/customizer/section/frontpage/top-slider.php:259
+msgid "Third Column"
+msgstr "Третья колонка"
+
+#: featuredlite/customizer/customizer.php:831
+msgid "Second Column"
+msgstr "Вторая колонка"
+
+#: elanzalite/customizer/customizer.php:243
+#: featuredlite/customizer/customizer.php:822
+#: featuredlite/customizer/customizer.php:942
+#: featuredlite/customizer/customizer.php:1062
+msgid "Background Hover Color"
+msgstr "Цвет фона при наведении"
+
+#: featuredlite/customizer/customizer.php:746
+#: featuredlite/customizer/customizer.php:868
+#: featuredlite/customizer/customizer.php:987
+msgid "Title Link"
+msgstr "Ссылка заголовка"
+
+#: featuredlite/customizer/customizer.php:702
+msgid "Button style 6"
+msgstr "Стиль кнопки 6"
+
+#: featuredlite/customizer/customizer.php:701
+#: oneline-lite/customizer/customizer.php:482
+msgid "Button style 5"
+msgstr "Стиль Кнопки 5"
+
+#: featuredlite/customizer/customizer.php:700
+#: oneline-lite/customizer/customizer.php:481
+msgid "Button style 4"
+msgstr "Стиль Кнопки 4"
+
+#: elanzalite/customizer/customizer.php:179
+#: featuredlite/customizer/customizer.php:699
+#: oneline-lite/customizer/customizer.php:480
+msgid "Button style 3"
+msgstr "Стиль кнопки 3"
+
+#: elanzalite/customizer/customizer.php:178
+#: featuredlite/customizer/customizer.php:698
+#: oneline-lite/customizer/customizer.php:479
+msgid "Button style 2"
+msgstr "Стиль кнопки 2"
+
+#: elanzalite/customizer/customizer.php:177
+#: featuredlite/customizer/customizer.php:697
+#: oneline-lite/customizer/customizer.php:478
+msgid "Button style 1"
+msgstr "Стиль кнопки 1"
+
+#: elanzalite/customizer/customizer.php:174
+#: featuredlite/customizer/customizer.php:694
+#: oneline-lite/customizer/customizer.php:475
+msgid "Choose button style for slider."
+msgstr "Выберите стиль кнопки для слайдера."
+
+#: elanzalite/customizer/customizer.php:173
+#: featuredlite/customizer/customizer.php:693
+#: oneline-lite/customizer/customizer.php:474
+msgid "Button"
+msgstr "Кнопка"
+
+#: featuredlite/customizer/customizer.php:647
+#: featuredlite/customizer/customizer.php:1441
+#: featuredlite/customizer/customizer.php:1642
+#: featuredlite/customizer/customizer.php:1738
+#: featuredlite/customizer/customizer.php:1862
+#: featuredlite/customizer/customizer.php:1948
+#: featuredlite/customizer/customizer.php:2008
+#: oneline-lite/customizer/customizer.php:759
+#: oneline-lite/customizer/customizer.php:1026
+#: oneline-lite/customizer/customizer.php:1204
+#: oneline-lite/customizer/customizer.php:1321
+#: oneline-lite/customizer/customizer.php:1453
+msgid "Main Heading Color"
+msgstr "Цвет основного заголовка"
+
+#: featuredlite/customizer/customizer.php:588
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: featuredlite/customizer/customizer.php:568 featuredlite/inc/shortcode.php:14
+#: featuredlite/inc/shortcode.php:15
+msgid "Best Optimized WordPress Themes"
+msgstr "Лучшие оптимизированные темы WordPress"
+
+#: featuredlite/customizer/customizer.php:561
+msgid " Main Heading"
+msgstr " Основной заголовок"
+
+#: featuredlite/customizer/customizer.php:555 featuredlite/inc/shortcode.php:10
+msgid "Beautiful Wordpress Business Themes"
+msgstr "ПРЕКРАСНЫЕ ТЕМЫ WORDPRESS"
+
+#: featuredlite/customizer/customizer.php:525
+msgid "Background Image Upload"
+msgstr "Загрузить картинку фона"
+
+#: featuredlite/customizer/customizer.php:505
+msgid "Third Image Upload"
+msgstr "Загрузка третьего изображения"
+
+#: featuredlite/customizer/customizer.php:494
+msgid "Second Image Upload"
+msgstr "Загрузка второго изображения"
+
+#: featuredlite/customizer/customizer.php:483
+msgid "First Image Upload"
+msgstr "Загрузка первого изображения"
+
+#: featuredlite/customizer/customizer.php:469
+msgid "Slider Speed Options"
+msgstr "Параметры скорости слайдера"
+
+#: featuredlite/customizer/customizer.php:412
+#: oneline-lite/customizer/customizer.php:385
+msgid "9 Contact Section"
+msgstr "9 Раздел Контакты"
+
+#: featuredlite/customizer/customizer.php:411
+msgid "8 woocommerce  Section"
+msgstr "8 Раздел Woocommerce"
+
+#: featuredlite/customizer/customizer.php:410
+msgid "7 Team  Section"
+msgstr "7 Раздел Команда"
+
+#: featuredlite/customizer/customizer.php:409
+#: oneline-lite/customizer/customizer.php:382
+msgid "6 Testimonial Section"
+msgstr "6 Раздел Отзывы"
+
+#: featuredlite/customizer/customizer.php:408
+msgid "5 Blog Section Section"
+msgstr "5 Раздел Блог"
+
+#: featuredlite/customizer/customizer.php:407
+msgid "4 Bottom Ribbon Section "
+msgstr "4 Раздел Лента "
+
+#: featuredlite/customizer/customizer.php:406
+msgid "3 About Us Section"
+msgstr "3 Раздел О нас"
+
+#: featuredlite/customizer/customizer.php:405
+#: oneline-lite/customizer/customizer.php:379
+msgid "2 Service Section"
+msgstr "2 Раздел Услуги"
+
+#: featuredlite/customizer/customizer.php:404
+msgid "1 Ribbon Section"
+msgstr "1 Раздел Лента"
+
+#: featuredlite/customizer/customizer.php:401
+#: oneline-lite/customizer/customizer.php:375
+msgid "(check to Hide section from frontpage)"
+msgstr "(установите флажок чтобы скрыть раздел на главной странице)"
+
+#: oneline-lite/customizer/customizer.php:340
+#: oneline-lite/customizer/customizer.php:350
+msgid "Footer Text"
+msgstr "Текст подвала"
+
+#: featuredlite/customizer/customizer.php:293
+msgid "Responsive Menu Color"
+msgstr "Цвет адаптивного меню"
+
+#: elanzalite/customizer/customizer.php:643
+#: featuredlite/customizer/customizer.php:276
+#: oneline-lite/customizer/customizer.php:305
+msgid "Menu Link Hover/Active Color"
+msgstr "Цвет активной ссылки в меню"
+
+#: elanzalite/customizer/customizer.php:629
+#: featuredlite/customizer/customizer.php:262
+#: oneline-lite/customizer/customizer.php:291
+msgid "Menu Link Color"
+msgstr "Цвет ссылки меню"
+
+#: elanzalite/customizer/customizer.php:595
+#: featuredlite/customizer/customizer.php:230
+#: oneline-lite/customizer/customizer.php:259
+msgid "Header Shrink Background Color"
+msgstr "Цвет заголовка при прокрутке"
+
+#: elanzalite/customizer/customizer.php:573
+#: featuredlite/customizer/customizer.php:210
+#: oneline-lite/customizer/customizer.php:239
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: elanzalite/customizer/customizer.php:542
+#: elanzalite/customizer/customizer.php:557
+#: featuredlite/customizer/customizer.php:178
+#: oneline-lite/customizer/customizer.php:193
+msgid "(Only applied for front page template.)"
+msgstr "(Только для шаблона главной страницы.)"
+
+#: featuredlite/customizer/customizer.php:135
+#: oneline-lite/customizer/customizer.php:333
+msgid "Copyright Background Color"
+msgstr "Цвет фона раздела авторских прав"
+
+#: featuredlite/customizer/customizer.php:89
+#: oneline-lite/customizer/customizer.php:120
+msgid "Site Color"
+msgstr "Цвет сайта"
+
+#: featuredlite/customizer/customizer.php:33
+msgid "Site layout is applied for all page templates"
+msgstr "Макет сайта применяется для всех шаблонов страниц"
+
+#: featuredlite/customizer/customizer.php:13
+#: oneline-lite/customizer/customizer.php:11
+msgid "Theme Option"
+msgstr "Опции темы"
+
+#: featuredlite/widget/testimonial.php:82
+msgid "Author Short bio"
+msgstr "Краткая информация об авторе"
+
+#: featuredlite/widget/testimonial.php:24
+#: oneline-lite/widget/testimonial.php:12
+msgid "ThemeHunk : Testimonial Widget"
+msgstr "ThemeHunk: Виджет Отзывов"
+
+#: featuredlite/widget/team.php:154 featuredlite/widget/testimonial.php:89
+#: oneline-lite/widget/team.php:163 oneline-lite/widget/testimonial.php:91
+msgid "Author Link"
+msgstr "Ссылка на автора"
+
+#: featuredlite/widget/team.php:126 oneline-lite/widget/team.php:136
+msgid "Member Name"
+msgstr "Имя участника"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:134
+#: elanzalite/widget/about-widget.php:119 featuredlite/widget/team.php:117
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:134
+#: oneline-lite/widget/team.php:127
+msgid "Member Image"
+msgstr "Изображение участника"
+
+#: featuredlite/widget/team.php:22 oneline-lite/widget/team.php:12
+msgid "ThemeHunk : Team Widget"
+msgstr "ThemeHunk: Виджет Команды"
+
+#: shopline/woo/woocommerce.php:178
+msgid "FEATURED PRODUCT"
+msgstr "Рекомендуемый товар"
+
+#: shopline/woo/ajax-woocommerce.php:173
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: shopline/woo/ajax-woocommerce.php:165
+msgid "View options"
+msgstr "Просмотр опций"
+
+#: shopline/woo/ajax-woocommerce.php:98
+msgid "out of 5"
+msgstr "из 5"
+
+#: elanzalite/widget/section-news.php:131 shopline/inc/testimonial.php:137
+msgid "Background Color:"
+msgstr "Цвет фона:"
+
+#: shopline/inc/testimonial.php:133
+msgid "Link Color:"
+msgstr "Цвет ссылки:"
+
+#: shopline/inc/testimonial.php:125
+msgid "Author Color:"
+msgstr "Цвет автора:"
+
+#: shopline/inc/testimonial.php:121
+msgid "Website Link"
+msgstr "Ссылка на сайт"
+
+#: shopline/inc/testimonial.php:116
+msgid "Website Display Text"
+msgstr "Текст на сайте"
+
+#: featuredlite/widget/testimonial.php:85
+#: oneline-lite/widget/testimonial.php:80 shopline/inc/testimonial.php:107
+msgid "Author Name"
+msgstr "Имя автора"
+
+#: featuredlite/widget/testimonial.php:73
+#: oneline-lite/widget/testimonial.php:70 shopline/inc/testimonial.php:96
+msgid "Author Image"
+msgstr "Фото автора"
+
+#: shopline/inc/testimonial.php:17
+msgid "Shopline : Testimonial Widget"
+msgstr "Shopline: Виджет Отзывов"
+
+#: elanzalite/inc/install.php:53 shopline/inc/custom-function.php:26
+msgid "%"
+msgstr "%"
+
+#: elanzalite/inc/install.php:53 shopline/inc/custom-function.php:26
+msgid "1"
+msgstr "1"
+
+#: elanzalite/inc/install.php:53 shopline/inc/custom-function.php:26
+msgid "0"
+msgstr "0"
+
+#: shopline/inc/service.php:132
+msgid "Title Color:"
+msgstr "Цвет заголовка:"
+
+#: shopline/inc/service.php:93
+msgid "Choose"
+msgstr "Выбрать"
+
+#: shopline/inc/service.php:17
+msgid "Shopline : Service Widget"
+msgstr "Shopline: виджет Услуги"
+
+#: featuredlite/inc/shortcode.php:366 shopline/inc/shortcode.php:960
+msgid "Woocommerce "
+msgstr "Woocommerce "
+
+#: shopline/inc/shortcode.php:781 shopline/inc/shortcode.php:933
+msgid "enjoy your shopping"
+msgstr "Приятных Вам покупок!"
+
+#: shopline/inc/shortcode.php:663
+msgid "Watch Client Say?"
+msgstr "Что говорят наши клиенты?"
+
+#: shopline/inc/shortcode.php:622 shopline/inc/shortcode.php:790
+#: shopline/inc/shortcode.php:941
+msgid "fitness quality backpacks, bags, travel goods and accessoriesus ut venenatis. Maecenas mattis mattisIn"
+msgstr "fitness quality backpacks, bags, travel goods and accessoriesus ut venenatis. Maecenas mattis mattisIn"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:159
+#: elanzalite/widget/about-widget.php:145
+#: featuredlite/customizer/customizer.php:721
+#: featuredlite/customizer/customizer.php:843
+#: featuredlite/customizer/customizer.php:962
+#: featuredlite/widget/services.php:65 featuredlite/widget/team.php:140
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:159
+#: oneline-lite/widget/services.php:86 oneline-lite/widget/team.php:145
+#: shopline/inc/service.php:103
+msgid "Go to this link for <a target=\"_blank\" href=\"//fontawesome.io/icons/\">Fontawesome icons</a> and copy the class of icon that you need & paste it below."
+msgstr "Перейдите по ссылке на <a target=\"_blank\" href=\"//fontawesome.io/icons/\">шрифт Fontawesome</a> , скопируйте нужный вам класс значков и вставьте его ниже."
+
+#: shopline/inc/shortcode.php:614
+msgid "Video Background Show Your Website Visually"
+msgstr "Видео фон подчёркивает достоинства сайта"
+
+#: shopline/inc/shortcode.php:145 shopline/inc/shortcode.php:671
+msgid "fitness quality backpacks, bags, travel goods and accessories"
+msgstr "фитнес-рюкзаки, сумки, дорожные товары и аксессуары"
+
+#: shopline/inc/shortcode.php:137
+msgid "THE BLOG"
+msgstr "БЛОГ"
+
+#: shopline/inc/shortcode.php:64
+msgid "Nulla sollicitudin euismod felis"
+msgstr "Nulla sollicitudin euismod felis"
+
+#: shopline/customizer/customizer.php:7693
+msgid "Section Typography"
+msgstr "Раздел Типография"
+
+#: shopline/customizer/customizer.php:7653
+msgid "Anchor (a)"
+msgstr "Якорь"
+
+#: elanzalite/customizer/customizer.php:2515
+#: shopline/customizer/customizer.php:7396
+msgid "Heading 6 (H6)"
+msgstr "Заголовок 6 (H6)"
+
+#: elanzalite/customizer/customizer.php:2265
+#: shopline/customizer/customizer.php:7139
+msgid "Heading 5 (H5)"
+msgstr "Заголовок 5 (H5)"
+
+#: elanzalite/customizer/customizer.php:2015
+#: shopline/customizer/customizer.php:6882
+msgid "Heading 4 (H4)"
+msgstr "Заголовок 4 (H4)"
+
+#: elanzalite/customizer/customizer.php:1765
+#: shopline/customizer/customizer.php:6625
+msgid "Heading 3 (H3)"
+msgstr "Заголовок 3 (H3)"
+
+#: elanzalite/customizer/customizer.php:1515
+#: shopline/customizer/customizer.php:6368
+msgid "Heading 2 (H2)"
+msgstr "Заголовок 2 (H2)"
+
+#: elanzalite/customizer/customizer.php:1265
+#: shopline/customizer/customizer.php:6107
+msgid "Heading 1 (H1)"
+msgstr "Заголовок 1 (H1)"
+
+#: elanzalite/customizer/customizer.php:1198
+#: elanzalite/customizer/customizer.php:1222
+#: elanzalite/customizer/customizer.php:1246
+#: elanzalite/customizer/customizer.php:1448
+#: elanzalite/customizer/customizer.php:1472
+#: elanzalite/customizer/customizer.php:1496
+#: elanzalite/customizer/customizer.php:1698
+#: elanzalite/customizer/customizer.php:1722
+#: elanzalite/customizer/customizer.php:1746
+#: elanzalite/customizer/customizer.php:1948
+#: elanzalite/customizer/customizer.php:1972
+#: elanzalite/customizer/customizer.php:1996
+#: elanzalite/customizer/customizer.php:2198
+#: elanzalite/customizer/customizer.php:2222
+#: elanzalite/customizer/customizer.php:2246
+#: elanzalite/customizer/customizer.php:2448
+#: elanzalite/customizer/customizer.php:2472
+#: elanzalite/customizer/customizer.php:2496
+#: elanzalite/customizer/customizer.php:2698
+#: elanzalite/customizer/customizer.php:2722
+#: elanzalite/customizer/customizer.php:2746
+#: shopline/customizer/customizer.php:6040
+#: shopline/customizer/customizer.php:6064
+#: shopline/customizer/customizer.php:6088
+#: shopline/customizer/customizer.php:6302
+#: shopline/customizer/customizer.php:6326
+#: shopline/customizer/customizer.php:6350
+#: shopline/customizer/customizer.php:6559
+#: shopline/customizer/customizer.php:6583
+#: shopline/customizer/customizer.php:6607
+#: shopline/customizer/customizer.php:6816
+#: shopline/customizer/customizer.php:6840
+#: shopline/customizer/customizer.php:6864
+#: shopline/customizer/customizer.php:7073
+#: shopline/customizer/customizer.php:7097
+#: shopline/customizer/customizer.php:7121
+#: shopline/customizer/customizer.php:7330
+#: shopline/customizer/customizer.php:7354
+#: shopline/customizer/customizer.php:7378
+#: shopline/customizer/customizer.php:7587
+#: shopline/customizer/customizer.php:7611
+#: shopline/customizer/customizer.php:7635
+msgid "Letter-spacing "
+msgstr "Межбуквенное расстояние "
+
+#: elanzalite/customizer/customizer.php:338
+#: featuredlite/customizer/customizer.php:103
+#: oneline-lite/customizer/customizer.php:134
+#: shopline/customizer/customizer.php:5789
+#: shopline/customizer/customizer.php:5795
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: shopline/customizer/customizer.php:5708
+msgid "Top & Bottom Horizontal Line Color"
+msgstr "Цвет линии сверху и снизу"
+
+#: shopline/customizer/customizer.php:5698
+msgid "Follow Us Color"
+msgstr "Цвет блока Подписаться"
+
+#: shopline/customizer/customizer.php:5688
+msgid "Copyright Text Color"
+msgstr "Цвет текста копирайта"
+
+#: shopline/customizer/customizer.php:5677
+msgid "Widget Text Color"
+msgstr "Цвет текста виджета"
+
+#: shopline/customizer/customizer.php:5656
+msgid "Footer Menu Color"
+msgstr "Цвета Меню в Подвале"
+
+#: shopline/customizer/customizer.php:5622
+msgid "Footer Background Image"
+msgstr "Изображение фона нижнего колонтитула"
+
+#: elanzalite/customizer/customizer.php:1053
+#: elanzalite/customizer/customizer.php:1078
+#: elanzalite/customizer/customizer.php:1102
+#: elanzalite/customizer/customizer.php:1303
+#: elanzalite/customizer/customizer.php:1328
+#: elanzalite/customizer/customizer.php:1352
+#: elanzalite/customizer/customizer.php:1553
+#: elanzalite/customizer/customizer.php:1578
+#: elanzalite/customizer/customizer.php:1602
+#: elanzalite/customizer/customizer.php:1803
+#: elanzalite/customizer/customizer.php:1828
+#: elanzalite/customizer/customizer.php:1852
+#: elanzalite/customizer/customizer.php:2053
+#: elanzalite/customizer/customizer.php:2078
+#: elanzalite/customizer/customizer.php:2102
+#: elanzalite/customizer/customizer.php:2303
+#: elanzalite/customizer/customizer.php:2328
+#: elanzalite/customizer/customizer.php:2352
+#: elanzalite/customizer/customizer.php:2553
+#: elanzalite/customizer/customizer.php:2578
+#: elanzalite/customizer/customizer.php:2602
+#: shopline/customizer/customizer.php:5895
+#: shopline/customizer/customizer.php:5919
+#: shopline/customizer/customizer.php:5943
+#: shopline/customizer/customizer.php:6158
+#: shopline/customizer/customizer.php:6182
+#: shopline/customizer/customizer.php:6206
+#: shopline/customizer/customizer.php:6415
+#: shopline/customizer/customizer.php:6439
+#: shopline/customizer/customizer.php:6463
+#: shopline/customizer/customizer.php:6672
+#: shopline/customizer/customizer.php:6696
+#: shopline/customizer/customizer.php:6720
+#: shopline/customizer/customizer.php:6929
+#: shopline/customizer/customizer.php:6953
+#: shopline/customizer/customizer.php:6977
+#: shopline/customizer/customizer.php:7186
+#: shopline/customizer/customizer.php:7210
+#: shopline/customizer/customizer.php:7234
+#: shopline/customizer/customizer.php:7443
+#: shopline/customizer/customizer.php:7467
+#: shopline/customizer/customizer.php:7491
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: shopline/customizer/customizer.php:5568
+msgid "Go to Menu"
+msgstr "Перейти к меню"
+
+#: shopline/customizer/customizer.php:5538
+msgid "Go to widget"
+msgstr "Перейти к виджету"
+
+#: shopline/customizer/customizer.php:5441
+msgid "Footer Top Section Image Upload"
+msgstr "Загрузить фото верхнего раздела подвала"
+
+#: shopline/customizer/customizer.php:5367
+msgid "Footer Setting"
+msgstr "Настройки подвала"
+
+#: shopline/customizer/customizer.php:5338
+msgid "Sale Background Color"
+msgstr "Цвет фона блока Акция"
+
+#: shopline/customizer/customizer.php:5328
+msgid "Sale Text Color"
+msgstr "Цвет текста блока Акция"
+
+#: shopline/customizer/customizer.php:5317
+msgid "Wishlist Icon Color"
+msgstr "Цвет иконки избранное"
+
+#: shopline/customizer/customizer.php:5284
+msgid "Price Color"
+msgstr "Цвет цены"
+
+#: shopline/customizer/customizer.php:5273
+msgid "Rating Color"
+msgstr "Цвет рейтинга"
+
+#: shopline/customizer/customizer.php:5229
+msgid "Five Grid"
+msgstr "Сетка 5"
+
+#: shopline/customizer/customizer.php:5227
+msgid "Three Grid"
+msgstr "Сетка 3"
+
+#: shopline/customizer/customizer.php:5226
+msgid "Two Grid"
+msgstr "Сетка 2"
+
+#: shopline/customizer/customizer.php:5221
+msgid "Choose Product Layout"
+msgstr "Выберите макет продукта"
+
+#: shopline/customizer/customizer.php:5205
+msgid "Shop / Category / Archive Page"
+msgstr "Магазин / Категория / Страница Архива"
+
+#: shopline/customizer/customizer.php:5188
+msgid "Product Single Page"
+msgstr "Отдельная страница товара"
+
+#: shopline/customizer/customizer.php:5125
+msgid "Shop page settings (WooCommerce)"
+msgstr "Настройки страницы магазина (WooCommerce)"
+
+#: shopline/customizer/customizer.php:5059
+msgid "Third Image Overlay Color"
+msgstr "Цвет оверлея третьего изображения"
+
+#: shopline/customizer/customizer.php:5038
+msgid "Second Image Overlay Color"
+msgstr "Цвет оверлея второго изображения"
+
+#: shopline/customizer/customizer.php:5017
+msgid "First Image Overlay Color"
+msgstr "Цвет оверлея первого изображения"
+
+#: big-store/customizer/section/frontpage/tab-productimage.php:79
+#: m-shop/customizer/section/frontpage/tab-productimage.php:79
+#: shopline/customizer/customizer.php:4869
+#: shopline/customizer/customizer.php:4900
+#: shopline/customizer/customizer.php:4933
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: shopline/customizer/customizer.php:4860
+msgid "First"
+msgstr "Первый"
+
+#: shopline/customizer/customizer.php:4792
+msgid "Three Column Featured"
+msgstr "Три колонки"
+
+#: featuredlite/customizer/customizer.php:807
+#: featuredlite/customizer/customizer.php:927
+#: featuredlite/customizer/customizer.php:1047
+#: oneline-lite/customizer/customizer.php:1126
+#: oneline-lite/widget/services.php:96 shopline/customizer/customizer.php:4727
+msgid "Description Color"
+msgstr "Цвет описания"
+
+#: shopline/customizer/customizer.php:4694
+msgid "Post Color Options"
+msgstr "Настройка цвета Записи"
+
+#: shopline/customizer/customizer.php:4569
+msgid "3000"
+msgstr "3000"
+
+#: oneline-lite/customizer/customizer.php:1284
+#: shopline/customizer/customizer.php:4544
+msgid "Enter a text below that you want to show instead of Read More"
+msgstr "Введите текст, который вы хотите показывать вместо текста Подробнее"
+
+#: featuredlite/customizer/customizer.php:1818
+#: oneline-lite/customizer/customizer.php:1270
+#: shopline/customizer/customizer.php:4531
+msgid "Number of Post"
+msgstr "Количество записей"
+
+#: shopline/customizer/customizer.php:4303
+msgid "Button Border and Hover Color"
+msgstr "Цвет рамки кнопки при наведении"
+
+#: elanzalite/customizer/customizer.php:159
+#: shopline/customizer/customizer.php:4292
+#: shopline/customizer/customizer.php:5306
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: shopline/customizer/customizer.php:4281
+msgid "Long Description Color"
+msgstr "Цвет полного описания"
+
+#: shopline/customizer/customizer.php:4270
+msgid "Short Description Color"
+msgstr "Цвет Краткого описания"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:215
+#: big-store/customizer/section/frontpage/ribbon.php:137
+#: featuredlite/customizer/customizer.php:600
+#: featuredlite/customizer/customizer.php:1137
+#: featuredlite/customizer/customizer.php:1273
+#: jot-shop/customizer/section/frontpage/ribbon.php:160
+#: m-shop/customizer/section/frontpage/ribbon.php:137
+#: oneline-lite/customizer/customizer.php:813
+#: shopline/customizer/customizer.php:4160
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:202
+#: big-store/customizer/section/frontpage/ribbon.php:124
+#: featuredlite/customizer/customizer.php:1125
+#: featuredlite/customizer/customizer.php:1261
+#: jot-shop/customizer/section/frontpage/ribbon.php:147
+#: m-shop/customizer/section/frontpage/ribbon.php:124
+#: oneline-lite/customizer/customizer.php:802
+#: shopline/customizer/customizer.php:4149
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: shopline/customizer/customizer.php:4127
+msgid "Short Description"
+msgstr "Краткое описание"
+
+#: shopline/customizer/customizer.php:4105
+msgid "Left Column"
+msgstr "Левый столбец"
+
+#: shopline/customizer/customizer.php:4004
+msgid "AboutUs"
+msgstr "О нас"
+
+#: shopline/customizer/customizer.php:3403
+msgid "Sale Tag Background"
+msgstr "Фон блока ярлыка Акции"
+
+#: elanzalite/customizer/customizer.php:227
+#: elanzalite/widget/section-five.php:217
+#: elanzalite/widget/section-five.php:232
+#: elanzalite/widget/section-four.php:129 elanzalite/widget/section-one.php:182
+#: elanzalite/widget/section-one.php:200
+#: elanzalite/widget/section-three.php:144
+#: elanzalite/widget/section-two.php:121
+#: featuredlite/customizer/customizer.php:1179
+#: featuredlite/customizer/customizer.php:1314
+#: featuredlite/customizer/customizer.php:1569 oneline-lite/widget/team.php:168
+#: shopline/customizer/customizer.php:3358
+#: shopline/customizer/customizer.php:5295
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: shopline/customizer/customizer.php:3199
+#: shopline/customizer/customizer.php:3604
+#: shopline/customizer/customizer.php:4559
+msgid "Autoplay"
+msgstr "Автовоспроизведение"
+
+#: shopline/customizer/customizer.php:3175
+msgid "Choose Category to Display Product. (By Default All Categories Product Will Display)"
+msgstr "Выберите категорию для отображения продукта. (По умолчанию все категории продукта будут отображаться)"
+
+#: shopline/customizer/customizer.php:3164 shopline/woo/woocommerce.php:447
+msgid "Sale"
+msgstr "Распродажа"
+
+#: shopline/customizer/customizer.php:3158
+msgid "Choose Product Type"
+msgstr "Выберите тип товара"
+
+#: shopline/customizer/customizer.php:3025
+msgid "Product Slider(WooCommerce)"
+msgstr "Слайдер товаров (WooCommerce)"
+
+#: shopline/customizer/customizer.php:2950
+msgid "Sale Tag background"
+msgstr "Фон блока ярлыка Акции"
+
+#: shopline/customizer/customizer.php:2928
+#: shopline/customizer/customizer.php:3381
+msgid "Icon Background Color"
+msgstr "Цвет фона значка"
+
+#: shopline/customizer/customizer.php:2917
+#: shopline/customizer/customizer.php:3370
+msgid "Pricing Text Color"
+msgstr "Цвет текста прайса"
+
+#: shopline/customizer/customizer.php:2906
+msgid "Title color"
+msgstr "Цвет заголовка"
+
+#: shopline/customizer/customizer.php:2895
+#: shopline/customizer/customizer.php:3347
+msgid "Product Color Option"
+msgstr "Цвет опций продукта"
+
+#: shopline/customizer/customizer.php:2885
+msgid "Category Border & hover Color"
+msgstr "Цвет рамки категории при наведении"
+
+#: shopline/customizer/customizer.php:2751
+msgid "Choose Category Display Product. (By Default All Categories Product Will Display)"
+msgstr "Выберите категорию для отображения продукта. (По умолчанию все категории продукта будут отображаться)"
+
+#: shopline/customizer/customizer.php:2738
+#: shopline/customizer/customizer.php:3187
+#: shopline/customizer/customizer.php:5241
+msgid "Number of Product"
+msgstr "Количество товара"
+
+#: shopline/customizer/customizer.php:2708
+msgid "Product Type"
+msgstr "Тип товара"
+
+#: featuredlite/customizer/customizer.php:1396
+#: featuredlite/customizer/customizer.php:1599
+#: featuredlite/customizer/customizer.php:1683
+#: featuredlite/customizer/customizer.php:1773
+#: featuredlite/customizer/customizer.php:1906
+#: featuredlite/customizer/customizer.php:2052
+#: oneline-lite/customizer/customizer.php:715
+#: oneline-lite/customizer/customizer.php:981
+#: oneline-lite/customizer/customizer.php:1145
+#: oneline-lite/customizer/customizer.php:1246
+#: oneline-lite/customizer/customizer.php:1364
+#: shopline/customizer/customizer.php:2695
+#: shopline/customizer/customizer.php:4115
+#: shopline/customizer/customizer.php:4494
+msgid "Main Heading"
+msgstr "Основной заголовок"
+
+#: shopline/customizer/customizer.php:2464
+msgid "Display Mobile view BG Image"
+msgstr "Фоновое изображение для мобильной версии"
+
+#: amaz-store/customizer/section/frontpage/ribbon.php:116
+#: big-store/customizer/section/frontpage/ribbon.php:87
+#: jot-shop/customizer/section/frontpage/ribbon.php:86
+#: m-shop/customizer/section/frontpage/ribbon.php:87
+#: shopline/customizer/customizer.php:2453
+msgid "Upload Background Video"
+msgstr "Загрузить фоновое видео"
+
+#: shopline/customizer/customizer.php:2280
+msgid "Ribbon"
+msgstr "Лента"
+
+#: m-shop/customizer/section/frontpage/ribbon.php:153
+#: shopline/customizer/customizer.php:2241
+#: shopline/customizer/customizer.php:2559
+#: shopline/customizer/customizer.php:2987
+#: shopline/customizer/customizer.php:3442
+#: shopline/customizer/customizer.php:3771
+#: shopline/customizer/customizer.php:3941
+#: shopline/customizer/customizer.php:4351
+#: shopline/customizer/customizer.php:4755
+#: shopline/customizer/customizer.php:5088
+#: shopline/customizer/customizer.php:5735
+msgid "Top Padding"
+msgstr "Верхний отступ"
+
+#: shopline/customizer/customizer.php:2215
+#: shopline/customizer/customizer.php:2532
+#: shopline/customizer/customizer.php:2862
+#: shopline/customizer/customizer.php:3335
+#: shopline/customizer/customizer.php:3743
+#: shopline/customizer/customizer.php:4683
+msgid "Title Underline Color"
+msgstr "Цвет подчеркивания заголовка"
+
+#: featuredlite/customizer/customizer.php:629
+#: featuredlite/customizer/customizer.php:1165
+#: featuredlite/customizer/customizer.php:1300
+#: featuredlite/customizer/customizer.php:1426
+#: featuredlite/customizer/customizer.php:1554
+#: featuredlite/customizer/customizer.php:1628
+#: featuredlite/customizer/customizer.php:1724
+#: featuredlite/customizer/customizer.php:1848
+#: featuredlite/customizer/customizer.php:1934
+#: featuredlite/customizer/customizer.php:1993
+#: oneline-lite/customizer/customizer.php:830
+#: shopline/customizer/customizer.php:2182
+#: shopline/customizer/customizer.php:2499
+#: shopline/customizer/customizer.php:2837
+#: shopline/customizer/customizer.php:3302
+#: shopline/customizer/customizer.php:3708
+#: shopline/customizer/customizer.php:4236
+#: shopline/customizer/customizer.php:4649
+#: shopline/customizer/customizer.php:5643
+msgid "(Set background color for section or set color with transparency for section overlay)"
+msgstr "(Установить цвет фона для раздела или установить цвет с прозрачностью для наложения раздела)"
+
+#: shopline/customizer/customizer.php:2181
+msgid "Background Color "
+msgstr "Цвет фона "
+
+#: shopline/customizer/customizer.php:2140
+#: shopline/customizer/customizer.php:2422
+#: shopline/customizer/customizer.php:2794
+#: shopline/customizer/customizer.php:3259
+#: shopline/customizer/customizer.php:3665
+#: shopline/customizer/customizer.php:4194
+#: shopline/customizer/customizer.php:4607
+#: shopline/customizer/customizer.php:4976
+#: shopline/customizer/customizer.php:5602
+msgid "Choose SVG Style"
+msgstr "Выберите стиль SVG"
+
+#: shopline/customizer/customizer.php:2121
+#: shopline/customizer/customizer.php:2401
+#: shopline/customizer/customizer.php:2774
+#: shopline/customizer/customizer.php:3240
+#: shopline/customizer/customizer.php:3645
+#: shopline/customizer/customizer.php:4175
+#: shopline/customizer/customizer.php:4587
+#: shopline/customizer/customizer.php:4957
+#: shopline/customizer/customizer.php:5583
+msgid "Choose Background"
+msgstr "Выбрать фон"
+
+#: shopline/customizer/customizer.php:2069
+msgid "Slider Autoplay"
+msgstr "Автозапуск слайдера"
+
+#: shopline/customizer/customizer.php:2057
+msgid "Choose categories which you want to display. By default all categories will display. "
+msgstr "Выберите категории, которые вы хотите отобразить. По умолчанию отображаются все категории. "
+
+#: shopline/customizer/customizer.php:2056
+#: shopline/customizer/customizer.php:2750
+#: shopline/customizer/customizer.php:3174
+msgid "Product Category"
+msgstr "Категория товара"
+
+#: shopline/customizer/customizer.php:2021
+#: shopline/customizer/customizer.php:2365
+#: shopline/customizer/customizer.php:3120
+#: shopline/customizer/customizer.php:3568
+#: shopline/customizer/customizer.php:4482
+msgid "Disable Sub Heading"
+msgstr "Отключить подзаголовок"
+
+#: featuredlite/customizer/customizer.php:575
+#: featuredlite/customizer/customizer.php:1410
+#: featuredlite/customizer/customizer.php:1612
+#: featuredlite/customizer/customizer.php:1696
+#: featuredlite/customizer/customizer.php:1786
+#: featuredlite/customizer/customizer.php:1918
+#: featuredlite/customizer/customizer.php:2064
+#: oneline-lite/customizer/customizer.php:727
+#: oneline-lite/customizer/customizer.php:992
+#: oneline-lite/customizer/customizer.php:1156
+#: oneline-lite/customizer/customizer.php:1257
+#: oneline-lite/customizer/customizer.php:1375
+#: shopline/customizer/customizer.php:2043
+#: shopline/customizer/customizer.php:2385
+#: shopline/customizer/customizer.php:3142
+#: shopline/customizer/customizer.php:3590
+#: shopline/customizer/customizer.php:4505
+msgid "Sub Heading"
+msgstr "Подзаголовок"
+
+#: shopline/customizer/customizer.php:2008
+#: shopline/customizer/customizer.php:2351
+#: shopline/customizer/customizer.php:2683
+#: shopline/customizer/customizer.php:3106
+#: shopline/customizer/customizer.php:3555
+#: shopline/customizer/customizer.php:4469
+msgid "Disable Heading"
+msgstr "Отключить заголовок"
+
+#: shopline/customizer/customizer.php:1994
+#: shopline/customizer/customizer.php:2338
+#: shopline/customizer/customizer.php:2669
+#: shopline/customizer/customizer.php:3092
+#: shopline/customizer/customizer.php:3542
+#: shopline/customizer/customizer.php:3895
+#: shopline/customizer/customizer.php:4071
+#: shopline/customizer/customizer.php:4455
+#: shopline/customizer/customizer.php:4850
+msgid "Disable section"
+msgstr "Отключить раздел"
+
+#: shopline/customizer/customizer.php:1924
+msgid "Category Slider (WooCommerce)"
+msgstr "Слайдер категорий (WooCommerce)"
+
+#: shopline/customizer/customizer.php:1917
+msgid "9 Latest Blog Section"
+msgstr "9 Раздел последних записей блога"
+
+#: shopline/customizer/customizer.php:1916
+msgid "8 About Us Section"
+msgstr "8 Раздел О нас"
+
+#: shopline/customizer/customizer.php:1915
+msgid "7 Testimonial Section"
+msgstr "7 Раздел Отзывы"
+
+#: shopline/customizer/customizer.php:1914
+msgid "6 Woocommerce Product slider Section"
+msgstr "6 Раздел слайдер Woocommerce"
+
+#: shopline/customizer/customizer.php:1913
+msgid "5 Woocommerce Product Section"
+msgstr "5 Раздел товаров Woocommerce"
+
+#: shopline/customizer/customizer.php:1912
+msgid "4 Service Section"
+msgstr "4 Раздел Услуги"
+
+#: oneline-lite/customizer/customizer.php:380
+#: shopline/customizer/customizer.php:1911
+msgid "3 Ribbon Section"
+msgstr "3 Раздел Лента"
+
+#: shopline/customizer/customizer.php:1910
+msgid "2 Woocommerce Category Slider Section"
+msgstr "2 Раздел слайдера для категории Woocommerce"
+
+#: oneline-lite/customizer/customizer.php:378
+#: shopline/customizer/customizer.php:1909
+msgid "1 Slider Section"
+msgstr "1 Раздел слайдер"
+
+#: shopline/customizer/customizer.php:1906
+msgid "Section Order"
+msgstr "Порядок разделов"
+
+#: shopline/customizer/customizer.php:1892
+msgid "Section ordering"
+msgstr "Порядок разделов"
+
+#: oneline-lite/customizer/customizer.php:958
+#: shopline/customizer/customizer.php:1672
+#: shopline/customizer/customizer.php:1693
+#: shopline/customizer/customizer.php:1714
+#: shopline/customizer/customizer.php:2161
+#: shopline/customizer/customizer.php:2443
+#: shopline/customizer/customizer.php:2463
+#: shopline/customizer/customizer.php:2816
+#: shopline/customizer/customizer.php:3281
+#: shopline/customizer/customizer.php:3687
+#: shopline/customizer/customizer.php:4215
+#: shopline/customizer/customizer.php:4629
+msgid "Upload Background Image"
+msgstr "Загрузить фоновое изображение"
+
+#: shopline/customizer/customizer.php:1626
+msgid "Hide Title"
+msgstr "Скрыть заголовок"
+
+#: shopline/customizer/customizer.php:1587
+msgid "No Header"
+msgstr "Без заголовка"
+
+#: shopline/customizer/customizer.php:1580
+msgid "Choose background type for Inner pages"
+msgstr "Выберите тип фона для внутренних страниц"
+
+#: shopline/customizer/customizer.php:1507
+msgid "Inner Page Hero"
+msgstr "Внутренняя страница"
+
+#: shopline/customizer/customizer.php:1499
+msgid "Button Border Hover Color"
+msgstr "Цвет рамки кнопки при наведении"
+
+#: oneline-lite/customizer/customizer.php:893
+#: oneline-lite/customizer/customizer.php:940
+#: shopline/customizer/customizer.php:1454
+msgid "Button Border Color"
+msgstr "Цвет рамки кнопки"
+
+#: featuredlite/customizer/customizer.php:1203
+#: featuredlite/customizer/customizer.php:1338
+#: oneline-lite/customizer/customizer.php:879
+#: shopline/customizer/customizer.php:1443
+#: shopline/customizer/customizer.php:4314
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: featuredlite/customizer/customizer.php:1191
+#: featuredlite/customizer/customizer.php:1326
+#: oneline-lite/customizer/customizer.php:862
+#: shopline/customizer/customizer.php:1428
+msgid "Button Background Color"
+msgstr "Цвет фона кнопки"
+
+#: amaz-store/customizer/section/frontpage/category-slider.php:106
+#: amaz-store/customizer/section/frontpage/category-tab.php:88
+#: amaz-store/customizer/section/frontpage/product-list.php:82
+#: amaz-store/customizer/section/frontpage/product-slide.php:96
+#: amaz-store/customizer/section/frontpage/top-slider.php:134
+#: big-store/customizer/section/frontpage/category-slider.php:106
+#: big-store/customizer/section/frontpage/category-tab.php:88
+#: big-store/customizer/section/frontpage/product-list.php:82
+#: big-store/customizer/section/frontpage/product-slide.php:94
+#: big-store/customizer/section/frontpage/top-slider.php:92
+#: jot-shop/customizer/section/frontpage/category-slider.php:106
+#: jot-shop/customizer/section/frontpage/category-tab.php:88
+#: jot-shop/customizer/section/frontpage/product-list.php:82
+#: jot-shop/customizer/section/frontpage/product-slide.php:96
+#: jot-shop/customizer/section/frontpage/top-slider.php:134
+#: m-shop/customizer/section/frontpage/category-slider.php:106
+#: m-shop/customizer/section/frontpage/category-tab.php:88
+#: m-shop/customizer/section/frontpage/product-list.php:82
+#: m-shop/customizer/section/frontpage/product-slide.php:94
+#: m-shop/customizer/section/frontpage/top-slider.php:98
+#: shopline/customizer/customizer.php:1644
+#: shopline/customizer/customizer.php:4573
+msgid "Speed"
+msgstr "Скорость"
+
+#: featuredlite/customizer/customizer.php:679
+#: featuredlite/customizer/customizer.php:1454
+#: featuredlite/customizer/customizer.php:1654
+#: featuredlite/customizer/customizer.php:1750
+#: featuredlite/customizer/customizer.php:1874
+#: featuredlite/customizer/customizer.php:1960
+#: featuredlite/customizer/customizer.php:2021
+#: oneline-lite/customizer/customizer.php:772
+#: oneline-lite/customizer/customizer.php:1040
+#: oneline-lite/customizer/customizer.php:1223
+#: oneline-lite/customizer/customizer.php:1340
+#: oneline-lite/customizer/customizer.php:1472
+#: shopline/customizer/customizer.php:1408
+#: shopline/customizer/customizer.php:2205
+#: shopline/customizer/customizer.php:2522
+#: shopline/customizer/customizer.php:3325
+#: shopline/customizer/customizer.php:3732
+#: shopline/customizer/customizer.php:4673
+msgid "Sub Heading Color"
+msgstr "Цвет подзаголовка"
+
+#: oneline-lite/customizer/customizer.php:846
+#: shopline/customizer/customizer.php:1398
+#: shopline/customizer/customizer.php:2195
+#: shopline/customizer/customizer.php:2512
+#: shopline/customizer/customizer.php:2852
+#: shopline/customizer/customizer.php:3315
+#: shopline/customizer/customizer.php:3721
+#: shopline/customizer/customizer.php:4259
+#: shopline/customizer/customizer.php:4663
+msgid "Heading Color"
+msgstr "Цвет заголовка"
+
+#: shopline/customizer/customizer.php:1296
+msgid "Text With Media on Right"
+msgstr "Текст с медиа справа"
+
+#: shopline/customizer/customizer.php:1295
+msgid "Text With Media on Left"
+msgstr "Текст с медиа слева"
+
+#: shopline/customizer/customizer.php:1273
+msgid "Plugin Shortcode"
+msgstr "Шорткод плагина"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:154
+#: elanzalite/widget/about-widget.php:140 featuredlite/widget/services.php:75
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:154
+#: oneline-lite/widget/services.php:81 shopline/customizer/customizer.php:1235
+#: shopline/inc/service.php:128
+msgid "Link"
+msgstr "Ссылка"
+
+#: featuredlite/customizer/customizer.php:759
+#: featuredlite/customizer/customizer.php:880
+#: featuredlite/customizer/customizer.php:1000
+#: featuredlite/customizer/customizer.php:1527
+#: featuredlite/widget/services.php:72 featuredlite/widget/team.php:134
+#: oneline-lite/widget/services.php:77 oneline-lite/widget/testimonial.php:88
+#: shopline/customizer/customizer.php:1223
+#: shopline/customizer/customizer.php:1274
+#: shopline/customizer/customizer.php:4138 shopline/inc/service.php:123
+#: shopline/inc/testimonial.php:112
+msgid "Description"
+msgstr "Описание"
+
+#: oneline-lite/customizer/customizer.php:503
+#: oneline-lite/customizer/customizer.php:567
+#: oneline-lite/customizer/customizer.php:632
+#: oneline-lite/customizer/customizer.php:792
+#: shopline/customizer/customizer.php:1210
+#: shopline/customizer/customizer.php:2031
+#: shopline/customizer/customizer.php:2374
+#: shopline/customizer/customizer.php:3130
+#: shopline/customizer/customizer.php:3578
+msgid "Heading"
+msgstr "Заголовок"
+
+#: shopline/customizer/customizer.php:1133
+#: shopline/customizer/customizer.php:1749
+#: shopline/customizer/customizer.php:2476
+msgid "Mute Audio"
+msgstr "Отключить звук"
+
+#: shopline/customizer/customizer.php:1121
+#: shopline/customizer/customizer.php:1737
+msgid "Poster Image Upload"
+msgstr "Загрузка изображения постера"
+
+#: shopline/customizer/customizer.php:1111
+#: shopline/customizer/customizer.php:1727
+msgid "Video Upload"
+msgstr "Загрузка видео"
+
+#: featuredlite/customizer/customizer.php:470
+#: oneline-lite/customizer/customizer.php:426
+#: shopline/customizer/customizer.php:1081
+#: shopline/customizer/customizer.php:2098
+#: shopline/customizer/customizer.php:3220
+#: shopline/customizer/customizer.php:3626
+msgid "(Increase or decrease the value in multiple of thousand to change slide speed. For example 3000 equals to 3 second. )"
+msgstr "(Увеличьте или уменьшите значение, кратное тысячам, чтобы изменить скорость слайдера. 3000 равно 3 секундам.)"
+
+#: oneline-lite/customizer/customizer.php:425
+#: shopline/customizer/customizer.php:1080
+#: shopline/customizer/customizer.php:2097
+#: shopline/customizer/customizer.php:3219
+#: shopline/customizer/customizer.php:3625
+msgid "Slider Speed"
+msgstr "Скорость слайдера"
+
+#: shopline/customizer/customizer.php:1064
+#: shopline/customizer/customizer.php:1294
+msgid "Text To Right"
+msgstr "Текст справа"
+
+#: shopline/customizer/customizer.php:1063
+#: shopline/customizer/customizer.php:1293
+msgid "Text To Left"
+msgstr "Текст слева"
+
+#: elanzalite/customizer/customizer.php:195
+#: elanzalite/customizer/customizer.php:472
+#: elanzalite/customizer/customizer.php:2991
+#: featuredlite/customizer/customizer.php:1164
+#: featuredlite/customizer/customizer.php:1299
+#: featuredlite/customizer/customizer.php:1425
+#: featuredlite/customizer/customizer.php:1553
+#: featuredlite/customizer/customizer.php:1627
+#: featuredlite/customizer/customizer.php:1723
+#: featuredlite/customizer/customizer.php:1847
+#: featuredlite/customizer/customizer.php:1933
+#: oneline-lite/customizer/customizer.php:744
+#: oneline-lite/customizer/customizer.php:1009
+#: oneline-lite/customizer/customizer.php:1069
+#: oneline-lite/customizer/customizer.php:1185
+#: oneline-lite/customizer/customizer.php:1302
+#: oneline-lite/customizer/customizer.php:1434
+#: shopline/customizer/customizer.php:1166
+#: shopline/customizer/customizer.php:2498
+#: shopline/customizer/customizer.php:2836
+#: shopline/customizer/customizer.php:3301
+#: shopline/customizer/customizer.php:3707
+#: shopline/customizer/customizer.php:3913
+#: shopline/customizer/customizer.php:4235
+#: shopline/customizer/customizer.php:4648
+#: shopline/customizer/customizer.php:4998
+#: shopline/customizer/customizer.php:5642
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: shopline/customizer/customizer.php:1062
+#: shopline/customizer/customizer.php:1292
+msgid "Text To Center"
+msgstr "Текст в центре"
+
+#: shopline/customizer/customizer.php:1059
+#: shopline/customizer/customizer.php:1289
+msgid "Content Alignment"
+msgstr "Выравнивание содержимого"
+
+#: shopline/customizer/customizer.php:970
+#: shopline/customizer/customizer.php:1704
+msgid "Third Slide"
+msgstr "Третий слайд"
+
+#: shopline/customizer/customizer.php:886
+#: shopline/customizer/customizer.php:1683
+msgid "Second Slide"
+msgstr "Второй слайд"
+
+#: oneline-lite/customizer/customizer.php:543
+#: oneline-lite/customizer/customizer.php:609
+#: oneline-lite/customizer/customizer.php:674
+#: shopline/customizer/customizer.php:875
+#: shopline/customizer/customizer.php:959
+#: shopline/customizer/customizer.php:1043
+#: shopline/customizer/customizer.php:1261
+msgid "Link for button"
+msgstr "Ссылка для кнопки"
+
+#: oneline-lite/customizer/customizer.php:531
+#: oneline-lite/customizer/customizer.php:597
+#: oneline-lite/customizer/customizer.php:662
+#: shopline/customizer/customizer.php:862
+#: shopline/customizer/customizer.php:946
+#: shopline/customizer/customizer.php:1030
+#: shopline/customizer/customizer.php:1248
+msgid "Text for button"
+msgstr "Текст для кнопки"
+
+#: shopline/customizer/customizer.php:849
+#: shopline/customizer/customizer.php:933
+#: shopline/customizer/customizer.php:1017
+msgid "Link for slider"
+msgstr "Ссылка для слайдера"
+
+#: shopline/customizer/customizer.php:837
+#: shopline/customizer/customizer.php:921
+#: shopline/customizer/customizer.php:1005
+msgid "Description for slider"
+msgstr "Описание для слайдера"
+
+#: oneline-lite/customizer/customizer.php:508
+#: oneline-lite/customizer/customizer.php:573
+#: oneline-lite/customizer/customizer.php:638
+#: shopline/customizer/customizer.php:823
+#: shopline/customizer/customizer.php:908
+#: shopline/customizer/customizer.php:992
+msgid "Slider Heading"
+msgstr "Заголовок слайдера"
+
+#: oneline-lite/customizer/customizer.php:498
+#: oneline-lite/customizer/customizer.php:562
+#: oneline-lite/customizer/customizer.php:627
+#: shopline/customizer/customizer.php:812
+#: shopline/customizer/customizer.php:897
+#: shopline/customizer/customizer.php:981
+msgid "Slider Image Upload"
+msgstr "Загрузка изображения для слайдера"
+
+#: shopline/customizer/customizer.php:800
+#: shopline/customizer/customizer.php:1662
+msgid "First Slide"
+msgstr "Первый слайд"
+
+#: shopline/customizer/customizer.php:789
+msgid "Hide Button"
+msgstr "Скрыть кнопку"
+
+#: shopline/customizer/customizer.php:776
+msgid "Hide Description"
+msgstr "Скрыть описание"
+
+#: shopline/customizer/customizer.php:763
+msgid "Hide Heading"
+msgstr "Скрыть заголовок"
+
+#: shopline/customizer/customizer.php:739
+#: shopline/customizer/customizer.php:1603
+msgid "Set hero section height in px"
+msgstr "Установить высоту раздела в px"
+
+#: shopline/customizer/customizer.php:723
+msgid "External Plugin"
+msgstr "Внешний плагин"
+
+#: shopline/customizer/customizer.php:722
+#: shopline/customizer/customizer.php:1185
+#: shopline/customizer/customizer.php:1325
+#: shopline/customizer/customizer.php:1811
+msgid "Gradient"
+msgstr "Градиент"
+
+#: oneline-lite/customizer/customizer.php:1053
+#: oneline-lite/customizer/customizer.php:1417
+#: shopline/customizer/customizer.php:721
+#: shopline/customizer/customizer.php:1324
+#: shopline/customizer/customizer.php:1586
+#: shopline/customizer/customizer.php:1790
+#: shopline/customizer/customizer.php:1810
+#: shopline/customizer/customizer.php:4249
+msgid "Color"
+msgstr "Цвет"
+
+#: amaz-store/customizer/section/frontpage/top-slider.php:235
+#: amaz-store/customizer/section/frontpage/top-slider.php:267
+#: big-store/customizer/section/frontpage/ribbon.php:24
+#: big-store/customizer/section/frontpage/top-slider.php:163
+#: jot-shop/customizer/section/frontpage/ribbon.php:24
+#: jot-shop/customizer/section/frontpage/top-slider.php:235
+#: jot-shop/customizer/section/frontpage/top-slider.php:267
+#: m-shop/customizer/section/frontpage/ribbon.php:24
+#: oneline-lite/customizer/customizer.php:947
+#: shopline/customizer/customizer.php:720
+#: shopline/customizer/customizer.php:1583 shopline/inc/service.php:107
+msgid "Image"
+msgstr "Изображение"
+
+#: jot-shop/customizer/section/frontpage/ribbon.php:25
+#: m-shop/customizer/section/frontpage/ribbon.php:25
+#: shopline/customizer/customizer.php:719
+#: shopline/customizer/customizer.php:1585
+msgid "Video"
+msgstr "Видео"
+
+#: shopline/customizer/customizer.php:718
+#: shopline/customizer/customizer.php:1584
+msgid "Slide Show"
+msgstr "Слайд-шоу"
+
+#: shopline/customizer/customizer.php:715
+msgid "Choose background type for front page"
+msgstr "Выберите тип фона для главной страницы"
+
+#: shopline/customizer/customizer.php:714
+#: shopline/customizer/customizer.php:1579
+msgid "Hero Layout"
+msgstr "Макет блока"
+
+#: shopline/customizer/customizer.php:608
+msgid "Front Page Hero"
+msgstr "Блока на главной страницы"
+
+#: shopline/customizer/customizer.php:598
+#: shopline/customizer/customizer.php:1768
+msgid "Header Image"
+msgstr "Изображение заголовка"
+
+#: shopline/customizer/customizer.php:568
+msgid "Mobile menu icon"
+msgstr "Иконка мобильного меню"
+
+#: shopline/customizer/customizer.php:554
+msgid "Menu Link Hover/Active"
+msgstr "Цвет активной ссылки в меню"
+
+#: shopline/customizer/customizer.php:539
+msgid "Menu Link"
+msgstr "Ссылка меню"
+
+#: elanzalite/customizer/customizer.php:503
+#: shopline/customizer/customizer.php:525
+msgid "Menu Color"
+msgstr "Цвет меню"
+
+#: shopline/customizer/customizer.php:514
+msgid "Title Description"
+msgstr "Заголовок описания"
+
+#: shopline/customizer/customizer.php:481
+msgid "Header Shrink Background"
+msgstr "Цвет заголовка при прокрутке"
+
+#: featuredlite/customizer/customizer.php:192
+#: oneline-lite/customizer/customizer.php:220
+#: shopline/customizer/customizer.php:431
+msgid "(Check here to style last Menu Item as a Custom Button)"
+msgstr "(Отметьте здесь, чтобы оформить последний пункт меню в виде пользовательской кнопки)"
+
+#: featuredlite/customizer/customizer.php:191
+#: oneline-lite/customizer/customizer.php:219
+#: shopline/customizer/customizer.php:430
+msgid "Custom Button"
+msgstr "Пользовательская кнопка"
+
+#: oneline-lite/customizer/customizer.php:205
+#: shopline/customizer/customizer.php:416
+msgid "(Check here to header will toggle on front page)"
+msgstr "(Отметьте здесь для переключения заголовка на главной)"
+
+#: elanzalite/customizer/customizer.php:555
+#: oneline-lite/customizer/customizer.php:204
+#: shopline/customizer/customizer.php:415
+msgid "Header Visibility"
+msgstr "Видимость заголовка"
+
+#: shopline/customizer/customizer.php:404
+msgid "(Only applied for all other Pages.)"
+msgstr "(Использовать только для всех остальных страниц.)"
+
+#: shopline/customizer/customizer.php:389
+msgid "(Only applied for Home page template.)"
+msgstr "(Только для шаблона домашней страницы.)"
+
+#: shopline/customizer/customizer.php:387
+msgid "Header Transparent (Home)"
+msgstr "Заголовок Прозрачный (Домашний)"
+
+#: shopline/customizer/customizer.php:342
+#: shopline/customizer/customizer.php:673
+#: shopline/customizer/customizer.php:1544
+#: shopline/customizer/customizer.php:1957
+#: shopline/customizer/customizer.php:2307
+#: shopline/customizer/customizer.php:2629
+#: shopline/customizer/customizer.php:3057
+#: shopline/customizer/customizer.php:3510
+#: shopline/customizer/customizer.php:3871
+#: shopline/customizer/customizer.php:4036
+#: shopline/customizer/customizer.php:4423
+#: shopline/customizer/customizer.php:4823
+#: shopline/customizer/customizer.php:5151
+#: shopline/customizer/customizer.php:5400
+msgid "Style"
+msgstr "Стиль"
+
+#: elanzalite/customizer/customizer.php:526
+#: featuredlite/customizer/customizer.php:144
+#: oneline-lite/customizer/customizer.php:159
+#: shopline/customizer/customizer.php:316
+msgid "Header Setting"
+msgstr "Настройка верхнего колонтитула"
+
+#: featuredlite/customizer/customizer.php:2078
+#: shopline/customizer/customizer.php:294
+msgid "Install recommended <a target=\"_blank\" href=\"//wordpress.org/plugins/lead-form-builder/\">Contact Form & Lead Form Builder</a> Plugin for Contact Us form."
+msgstr "Установите рекомендованный <a target=\"_blank\" href=\"//wordpress.org/plugins/lead-form-builder/\">плагин Lead Form Builder</a> ."
+
+#: shopline/customizer/customizer.php:293
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: shopline/customizer/customizer.php:279
+msgid "Time"
+msgstr "Время"
+
+#: featuredlite/customizer/customizer.php:2107
+#: shopline/customizer/customizer.php:264
+msgid "Address"
+msgstr "Адрес"
+
+#: featuredlite/customizer/customizer.php:2092
+#: shopline/customizer/customizer.php:248
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: shopline/customizer/customizer.php:218
+msgid "Contact Page Setting"
+msgstr "Настройки страницы Контакты"
+
+#: shopline/customizer/customizer.php:190
+msgid "(For all theme pages)"
+msgstr "(Для всех страниц темы)"
+
+#: shopline/customizer/customizer.php:189
+msgid "Container Size (In Pixel)"
+msgstr "Размер контейнера (в пикселях)"
+
+#: elanzalite/customizer/customizer.php:317
+#: featuredlite/customizer/customizer.php:84
+#: oneline-lite/customizer/customizer.php:82
+#: shopline/customizer/customizer.php:151
+msgid "Check here to disable Back To Top button."
+msgstr "Отметьте здесь, чтобы отключить кнопку «Вверх»."
+
+#: featuredlite/customizer/customizer.php:67
+#: oneline-lite/customizer/customizer.php:65
+#: shopline/customizer/customizer.php:134
+msgid "Disable animation effect?"
+msgstr "Отключить эффект анимации?"
+
+#: oneline-lite/customizer/customizer.php:112
+#: shopline/customizer/customizer.php:121
+msgid "Check here to disable Parallax effect "
+msgstr "Отключить эффект параллакса "
+
+#: oneline-lite/customizer/customizer.php:110
+#: shopline/customizer/customizer.php:119
+msgid "Disable Parallax effect ?"
+msgstr "Отключить эффект параллакса?"
+
+#: oneline-lite/customizer/customizer.php:30
+#: shopline/customizer/customizer.php:99
+msgid "Page Layout"
+msgstr "Макет страницы"
+
+#: elanzalite/customizer/customizer.php:285
+#: featuredlite/customizer/customizer.php:17
+#: oneline-lite/customizer/customizer.php:15
+#: shopline/customizer/customizer.php:84
+msgid "Global Setting"
+msgstr "Глобальные настройки"
+
+#: shopline/customizer/customizer.php:45
+msgid "Need further assistance? Check out this"
+msgstr "Нужна дополнительная помощь? Прочитайте"
+
+#: shopline/customizer/customizer.php:31
+msgid "Add Category"
+msgstr "Добавить категорию"
+
+#: m-shop/customizer/section/frontpage/testimonial.php:29
+#: shopline/customizer/customizer.php:3480 shopline/include.php:108
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: shopline/customizer/customizer.php:3848 shopline/include.php:100
+msgid "Service"
+msgstr "Услуги"
+
+#. Author URI of the plugin
+msgid "http://www.themehunk.com/"
+msgstr "http://www.themehunk.com/"
+
+#. Author of the plugin
+msgid "ThemeHunk"
+msgstr "ThemeHunk"
+
+#. Description of the plugin
+msgid "With the help of ThemeHunk unlimited addon you can add unlimited number of columns for services, Testimonial, and Team with color options for each."
+msgstr "С помощью полной версии ThemeHunk вы можете добавить неограниченное количество столбцов для услуг, рекомендаций и групп с параметрами цвета для каждого."
+
+#. Plugin Name of the plugin
+msgid "ThemeHunk Customizer"
+msgstr "Настройки ThemeHunk"
+
+#: featuredlite/customizer/customizer.php:777
+#: featuredlite/customizer/customizer.php:896
+#: featuredlite/customizer/customizer.php:1016
+#: oneline-lite/widget/services.php:90 shopline/customizer/customizer.php:579
+#: shopline/customizer/customizer.php:2939
+#: shopline/customizer/customizer.php:3392
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:129
+#: elanzalite/widget/about-widget.php:114 elanzalite/widget/recent-post.php:136
+#: elanzalite/widget/section-news.php:121
+#: elanzalite/widget/social-widget.php:108
+#: featuredlite/customizer/customizer.php:734
+#: featuredlite/customizer/customizer.php:856
+#: featuredlite/customizer/customizer.php:975
+#: featuredlite/customizer/customizer.php:1112
+#: featuredlite/customizer/customizer.php:1249
+#: featuredlite/customizer/customizer.php:1513
+#: featuredlite/widget/services.php:69
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:129
+#: oneline-lite/widget/services.php:73 shopline/inc/service.php:118
+msgid "Title"
+msgstr "Заголовок"
+
+#: shopline/inc/shortcode.php:828
+msgid "Wishlist"
+msgstr "Список пожеланий"
+
+#: shopline/customizer/customizer.php:592 shopline/inc/service.php:102
+msgid "Icon"
+msgstr "Значок"
+
+#: featuredlite/customizer/customizer.php:582
+#: featuredlite/customizer/customizer.php:1119
+#: featuredlite/customizer/customizer.php:1255
+#: shopline/woo/ajax-woocommerce.php:154 shopline/woo/ajax-woocommerce.php:169
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: featuredlite/customizer/customizer.php:302
+#: shopline/customizer/customizer.php:5452
+msgid "Social Icon"
+msgstr "Значок соцсетей"
+
+#: featuredlite/inc/shortcode.php:228
+msgid "Gabriel"
+msgstr "Gabriel"
+
+#: featuredlite/customizer/customizer.php:793
+#: featuredlite/customizer/customizer.php:912
+#: featuredlite/customizer/customizer.php:1032
+#: oneline-lite/customizer/customizer.php:460
+#: oneline-lite/widget/services.php:93 shopline/customizer/customizer.php:4716
+#: shopline/customizer/customizer.php:5262
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: elanzalite/customizer/customizer.php:212
+#: featuredlite/customizer/customizer.php:663 oneline-lite/widget/team.php:166
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: big-store/customizer/section/frontpage/tab-productimage.php:95
+#: elanzalite/customizer/customizer.php:80
+#: m-shop/customizer/section/frontpage/tab-productimage.php:95
+msgid "Left"
+msgstr "Слева"
+
+#: elanzalite/customizer/customizer.php:82
+#: m-shop/customizer/section/frontpage/tab-productimage.php:96
+msgid "Right"
+msgstr "Справа"
+
+#: shopline/customizer/customizer.php:4084
+msgid "Right Column"
+msgstr "Правая колонка"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:150
+#: elanzalite/customizer/customizer.php:766
+#: elanzalite/widget/about-widget.php:136
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:150
+msgid "Read More Text"
+msgstr "Текст Читать далее"
+
+#: elanzalite/widget/social-widget.php:110
+#: featuredlite/customizer/customizer.php:313
+#: shopline/customizer/customizer.php:5463
+msgid "Facebook URL"
+msgstr "URL-адрес Facebook"
+
+#: featuredlite/customizer/customizer.php:380
+msgid "LinkedIn URL"
+msgstr "URL-адрес LinkedIn"
+
+#: elanzalite/widget/social-widget.php:122
+msgid "Pinterest URL"
+msgstr "URL-адрес Pinterest"
+
+#: elanzalite/widget/social-widget.php:118
+#: featuredlite/customizer/customizer.php:324
+#: shopline/customizer/customizer.php:5509
+msgid "Twitter URL"
+msgstr "URL-адрес Twitter"
+
+#: elanzalite/widget/social-widget.php:130
+#: featuredlite/customizer/customizer.php:346
+#: shopline/customizer/customizer.php:5475
+msgid "Youtube URL"
+msgstr "URL-адрес YouTube"
+
+#: shopline/customizer/customizer.php:2875
+msgid "Category Text Color"
+msgstr "Цвет текста категории"
+
+#: amaz-store/customizer/section/frontpage/category-tab.php:54
+#: amaz-store/customizer/section/frontpage/product-list.php:49
+#: amaz-store/customizer/section/frontpage/product-slide.php:62
+#: jot-shop/customizer/section/frontpage/category-tab.php:54
+#: jot-shop/customizer/section/frontpage/product-list.php:49
+#: jot-shop/customizer/section/frontpage/product-slide.php:62
+#: m-shop/customizer/section/frontpage/category-tab.php:54
+#: m-shop/customizer/section/frontpage/product-list.php:49
+#: m-shop/customizer/section/frontpage/product-slide.php:60
+#: m-shop/customizer/section/frontpage/tab-productimage.php:56
+#: shopline/customizer/customizer.php:3163
+msgid "Random"
+msgstr "Случайно"
+
+#: amaz-store/customizer/section/frontpage/category-tab.php:52
+#: amaz-store/customizer/section/frontpage/product-list.php:47
+#: amaz-store/customizer/section/frontpage/product-slide.php:60
+#: big-store/customizer/section/frontpage/category-tab.php:52
+#: big-store/customizer/section/frontpage/product-list.php:47
+#: big-store/customizer/section/frontpage/product-slide.php:58
+#: big-store/customizer/section/frontpage/tab-productimage.php:54
+#: jot-shop/customizer/section/frontpage/category-tab.php:52
+#: jot-shop/customizer/section/frontpage/product-list.php:47
+#: jot-shop/customizer/section/frontpage/product-slide.php:60
+#: m-shop/customizer/section/frontpage/category-tab.php:52
+#: m-shop/customizer/section/frontpage/product-list.php:47
+#: m-shop/customizer/section/frontpage/product-slide.php:58
+#: m-shop/customizer/section/frontpage/tab-productimage.php:54
+#: shopline/customizer/customizer.php:3161
+msgid "Recent"
+msgstr "Недавние"
+
+#: shopline/customizer/customizer.php:2724
+msgid "Product Layout"
+msgstr "Макет товара"
+
+#: featuredlite/customizer/customizer.php:628
+msgid "Background Overlay Color"
+msgstr "Цвет фонового перекрытия"
+
+#: featuredlite/customizer/customizer.php:720
+#: featuredlite/customizer/customizer.php:842
+#: featuredlite/customizer/customizer.php:961
+msgid "Font Icon"
+msgstr "Значок шрифта"
+
+#: featuredlite/customizer/customizer.php:1218
+#: featuredlite/customizer/customizer.php:1350
+#: oneline-lite/customizer/customizer.php:909
+#: shopline/customizer/customizer.php:1473
+msgid "Button Background Hover Color"
+msgstr "Эффект фона кнопки при наведении курсора"
+
+#: amaz-store/customizer/section/frontpage/top-slider.php:177
+#: big-store/customizer/section/frontpage/top-slider.php:105
+#: featuredlite/customizer/customizer.php:709
+#: jot-shop/customizer/section/frontpage/top-slider.php:177
+msgid "First Column"
+msgstr "Первый столбец"
+
+#: shopline/customizer/customizer.php:4705
+msgid "Date Text Color"
+msgstr "Цвет текста даты"
+
+#: featuredlite/customizer/customizer.php:1539
+#: shopline/customizer/customizer.php:1147
+#: shopline/customizer/customizer.php:1306
+#: shopline/customizer/customizer.php:4094
+msgid "Image Upload"
+msgstr "Загрузка изображения"
+
+#: shopline/customizer/customizer.php:4879
+#: shopline/customizer/customizer.php:4910
+#: shopline/customizer/customizer.php:4943
+msgid "Image Link"
+msgstr "Ссылка изображения"
+
+#: shopline/customizer/customizer.php:4891
+msgid "Second"
+msgstr "Секунда"
+
+#: shopline/customizer/customizer.php:4924
+msgid "Third"
+msgstr "Треть"
+
+#: featuredlite/customizer/customizer.php:2121
+msgid "Email"
+msgstr "Емейл"
+
+#: elanzalite/customizer/customizer.php:81
+msgid "Center"
+msgstr "По центру"
+
+#: shopline/customizer/customizer.php:5431
+msgid "Footer Logo"
+msgstr "Логотип подвала"
+
+#: featuredlite/inc/shortcode.php:51
+msgid "Parallax Effect"
+msgstr "Эффект параллакса"
+
+#: featuredlite/inc/shortcode.php:85
+msgid "Responsive design"
+msgstr "Адаптивный дизайн"
+
+#: shopline/customizer/customizer.php:5667
+msgid "Widget Title Color"
+msgstr "Цвет названия виджета"
+
+#: featuredlite/inc/shortcode.php:243
+msgid "Software Engineer"
+msgstr "Инженер-программист"
+
+#: shopline/inc/service.php:140
+msgid "Icon Color:"
+msgstr "Цвет значка:"
+
+#: elanzalite/customizer/customizer.php:540
+#: featuredlite/customizer/customizer.php:176
+#: oneline-lite/customizer/customizer.php:191
+#: shopline/customizer/customizer.php:402
+msgid "Header Transparent"
+msgstr "Прозрачный заголовок"
+
+#: featuredlite/widget/services.php:64 oneline-lite/widget/services.php:85
+msgid "Font Awesome Icon"
+msgstr "Значок Font Awesome"
+
+#: featuredlite/widget/team.php:130 oneline-lite/widget/team.php:140
+msgid "Designation"
+msgstr "Обозначение"
+
+#: elanzalite/customizer/customizer.php:614
+#: featuredlite/customizer/customizer.php:248
+#: oneline-lite/customizer/customizer.php:277
+msgid "Site Title Color"
+msgstr "Цвет названия сайта"
+
+#: shopline/woo/ajax-woocommerce.php:98
+msgid "Rated %s out of 5"
+msgstr "Рейтинг %s из 5"
+
+#: shopline/woo/ajax-woocommerce.php:161
+msgid "Select options"
+msgstr "Выбрать параметры"
+
+#: shopline/woo/woocommerce.php:720
+msgid "My Account"
+msgstr "Моя учётная запись"
+
+#: shopline/woo/woocommerce.php:724
+msgid "Login / Register"
+msgstr "Войти или Зарегистрироваться"
+
+#: elanzalite/customizer/customizer.php:974
+#: shopline/customizer/customizer.php:5814
+msgid "Typography"
+msgstr "Типографика"
+
+#: elanzalite/customizer/customizer.php:979
+#: elanzalite/customizer/customizer.php:997
+#: shopline/customizer/customizer.php:5821
+#: shopline/customizer/customizer.php:5839
+msgid "Font Subsets"
+msgstr "Подгруппы шрифтов"
+
+#: elanzalite/customizer/customizer.php:1015
+#: shopline/customizer/customizer.php:5857
+msgid "Body"
+msgstr "Основная часть"
+
+#: elanzalite/customizer/customizer.php:1032
+#: elanzalite/customizer/customizer.php:1282
+#: elanzalite/customizer/customizer.php:1532
+#: elanzalite/customizer/customizer.php:1782
+#: elanzalite/customizer/customizer.php:2032
+#: elanzalite/customizer/customizer.php:2282
+#: elanzalite/customizer/customizer.php:2532
+#: elanzalite/customizer/customizer.php:2781
+#: shopline/customizer/customizer.php:5874
+#: shopline/customizer/customizer.php:6124
+#: shopline/customizer/customizer.php:6395
+#: shopline/customizer/customizer.php:6652
+#: shopline/customizer/customizer.php:6909
+#: shopline/customizer/customizer.php:7166
+#: shopline/customizer/customizer.php:7423
+#: shopline/customizer/customizer.php:7680
+msgid "Font family"
+msgstr "Семейство шрифтов"
+
+#: elanzalite/customizer/customizer.php:1126
+#: elanzalite/customizer/customizer.php:1150
+#: elanzalite/customizer/customizer.php:1174
+#: elanzalite/customizer/customizer.php:1376
+#: elanzalite/customizer/customizer.php:1400
+#: elanzalite/customizer/customizer.php:1424
+#: elanzalite/customizer/customizer.php:1626
+#: elanzalite/customizer/customizer.php:1650
+#: elanzalite/customizer/customizer.php:1674
+#: elanzalite/customizer/customizer.php:1876
+#: elanzalite/customizer/customizer.php:1900
+#: elanzalite/customizer/customizer.php:1924
+#: elanzalite/customizer/customizer.php:2126
+#: elanzalite/customizer/customizer.php:2150
+#: elanzalite/customizer/customizer.php:2174
+#: elanzalite/customizer/customizer.php:2376
+#: elanzalite/customizer/customizer.php:2400
+#: elanzalite/customizer/customizer.php:2424
+#: elanzalite/customizer/customizer.php:2626
+#: elanzalite/customizer/customizer.php:2650
+#: elanzalite/customizer/customizer.php:2674
+#: shopline/customizer/customizer.php:5967
+#: shopline/customizer/customizer.php:5992
+#: shopline/customizer/customizer.php:6016
+#: shopline/customizer/customizer.php:6230
+#: shopline/customizer/customizer.php:6254
+#: shopline/customizer/customizer.php:6278
+#: shopline/customizer/customizer.php:6487
+#: shopline/customizer/customizer.php:6511
+#: shopline/customizer/customizer.php:6535
+#: shopline/customizer/customizer.php:6744
+#: shopline/customizer/customizer.php:6768
+#: shopline/customizer/customizer.php:6792
+#: shopline/customizer/customizer.php:7001
+#: shopline/customizer/customizer.php:7025
+#: shopline/customizer/customizer.php:7049
+#: shopline/customizer/customizer.php:7258
+#: shopline/customizer/customizer.php:7282
+#: shopline/customizer/customizer.php:7306
+#: shopline/customizer/customizer.php:7515
+#: shopline/customizer/customizer.php:7539
+#: shopline/customizer/customizer.php:7563
+msgid "Line height"
+msgstr "Высота строки"
+
+#: elanzalite/widget/recent-post.php:164
+msgid "Post Date"
+msgstr "Дата записи"
+
+#: elanzalite/customizer/customizer.php:1053
+#: elanzalite/customizer/customizer.php:1078
+#: elanzalite/customizer/customizer.php:1102
+#: elanzalite/customizer/customizer.php:1126
+#: elanzalite/customizer/customizer.php:1150
+#: elanzalite/customizer/customizer.php:1174
+#: elanzalite/customizer/customizer.php:1198
+#: elanzalite/customizer/customizer.php:1222
+#: elanzalite/customizer/customizer.php:1246
+#: elanzalite/customizer/customizer.php:1303
+#: elanzalite/customizer/customizer.php:1328
+#: elanzalite/customizer/customizer.php:1352
+#: elanzalite/customizer/customizer.php:1376
+#: elanzalite/customizer/customizer.php:1400
+#: elanzalite/customizer/customizer.php:1424
+#: elanzalite/customizer/customizer.php:1448
+#: elanzalite/customizer/customizer.php:1472
+#: elanzalite/customizer/customizer.php:1496
+#: elanzalite/customizer/customizer.php:1553
+#: elanzalite/customizer/customizer.php:1578
+#: elanzalite/customizer/customizer.php:1602
+#: elanzalite/customizer/customizer.php:1626
+#: elanzalite/customizer/customizer.php:1650
+#: elanzalite/customizer/customizer.php:1674
+#: elanzalite/customizer/customizer.php:1698
+#: elanzalite/customizer/customizer.php:1722
+#: elanzalite/customizer/customizer.php:1746
+#: elanzalite/customizer/customizer.php:1803
+#: elanzalite/customizer/customizer.php:1828
+#: elanzalite/customizer/customizer.php:1852
+#: elanzalite/customizer/customizer.php:1876
+#: elanzalite/customizer/customizer.php:1900
+#: elanzalite/customizer/customizer.php:1924
+#: elanzalite/customizer/customizer.php:1948
+#: elanzalite/customizer/customizer.php:1972
+#: elanzalite/customizer/customizer.php:1996
+#: elanzalite/customizer/customizer.php:2053
+#: elanzalite/customizer/customizer.php:2078
+#: elanzalite/customizer/customizer.php:2102
+#: elanzalite/customizer/customizer.php:2126
+#: elanzalite/customizer/customizer.php:2150
+#: elanzalite/customizer/customizer.php:2174
+#: elanzalite/customizer/customizer.php:2198
+#: elanzalite/customizer/customizer.php:2222
+#: elanzalite/customizer/customizer.php:2246
+#: elanzalite/customizer/customizer.php:2303
+#: elanzalite/customizer/customizer.php:2328
+#: elanzalite/customizer/customizer.php:2352
+#: elanzalite/customizer/customizer.php:2376
+#: elanzalite/customizer/customizer.php:2400
+#: elanzalite/customizer/customizer.php:2424
+#: elanzalite/customizer/customizer.php:2448
+#: elanzalite/customizer/customizer.php:2472
+#: elanzalite/customizer/customizer.php:2496
+#: elanzalite/customizer/customizer.php:2553
+#: elanzalite/customizer/customizer.php:2578
+#: elanzalite/customizer/customizer.php:2602
+#: elanzalite/customizer/customizer.php:2626
+#: elanzalite/customizer/customizer.php:2650
+#: elanzalite/customizer/customizer.php:2674
+#: elanzalite/customizer/customizer.php:2698
+#: elanzalite/customizer/customizer.php:2722
+#: elanzalite/customizer/customizer.php:2746
+#: shopline/customizer/customizer.php:2241
+#: shopline/customizer/customizer.php:2263
+#: shopline/customizer/customizer.php:2559
+#: shopline/customizer/customizer.php:2581
+#: shopline/customizer/customizer.php:2987
+#: shopline/customizer/customizer.php:3009
+#: shopline/customizer/customizer.php:3442
+#: shopline/customizer/customizer.php:3464
+#: shopline/customizer/customizer.php:3771
+#: shopline/customizer/customizer.php:3792
+#: shopline/customizer/customizer.php:3941
+#: shopline/customizer/customizer.php:3963
+#: shopline/customizer/customizer.php:4351
+#: shopline/customizer/customizer.php:4372
+#: shopline/customizer/customizer.php:4755
+#: shopline/customizer/customizer.php:4776
+#: shopline/customizer/customizer.php:5088
+#: shopline/customizer/customizer.php:5109
+#: shopline/customizer/customizer.php:5735
+#: shopline/customizer/customizer.php:5757
+#: shopline/customizer/customizer.php:5895
+#: shopline/customizer/customizer.php:5919
+#: shopline/customizer/customizer.php:5943
+#: shopline/customizer/customizer.php:5967
+#: shopline/customizer/customizer.php:5992
+#: shopline/customizer/customizer.php:6016
+#: shopline/customizer/customizer.php:6040
+#: shopline/customizer/customizer.php:6064
+#: shopline/customizer/customizer.php:6088
+#: shopline/customizer/customizer.php:6158
+#: shopline/customizer/customizer.php:6182
+#: shopline/customizer/customizer.php:6206
+#: shopline/customizer/customizer.php:6230
+#: shopline/customizer/customizer.php:6254
+#: shopline/customizer/customizer.php:6278
+#: shopline/customizer/customizer.php:6302
+#: shopline/customizer/customizer.php:6326
+#: shopline/customizer/customizer.php:6350
+#: shopline/customizer/customizer.php:6415
+#: shopline/customizer/customizer.php:6439
+#: shopline/customizer/customizer.php:6463
+#: shopline/customizer/customizer.php:6487
+#: shopline/customizer/customizer.php:6511
+#: shopline/customizer/customizer.php:6535
+#: shopline/customizer/customizer.php:6559
+#: shopline/customizer/customizer.php:6583
+#: shopline/customizer/customizer.php:6607
+#: shopline/customizer/customizer.php:6672
+#: shopline/customizer/customizer.php:6696
+#: shopline/customizer/customizer.php:6720
+#: shopline/customizer/customizer.php:6744
+#: shopline/customizer/customizer.php:6768
+#: shopline/customizer/customizer.php:6792
+#: shopline/customizer/customizer.php:6816
+#: shopline/customizer/customizer.php:6840
+#: shopline/customizer/customizer.php:6864
+#: shopline/customizer/customizer.php:6929
+#: shopline/customizer/customizer.php:6953
+#: shopline/customizer/customizer.php:6977
+#: shopline/customizer/customizer.php:7001
+#: shopline/customizer/customizer.php:7025
+#: shopline/customizer/customizer.php:7049
+#: shopline/customizer/customizer.php:7073
+#: shopline/customizer/customizer.php:7097
+#: shopline/customizer/customizer.php:7121
+#: shopline/customizer/customizer.php:7186
+#: shopline/customizer/customizer.php:7210
+#: shopline/customizer/customizer.php:7234
+#: shopline/customizer/customizer.php:7258
+#: shopline/customizer/customizer.php:7282
+#: shopline/customizer/customizer.php:7306
+#: shopline/customizer/customizer.php:7330
+#: shopline/customizer/customizer.php:7354
+#: shopline/customizer/customizer.php:7378
+#: shopline/customizer/customizer.php:7443
+#: shopline/customizer/customizer.php:7467
+#: shopline/customizer/customizer.php:7491
+#: shopline/customizer/customizer.php:7515
+#: shopline/customizer/customizer.php:7539
+#: shopline/customizer/customizer.php:7563
+#: shopline/customizer/customizer.php:7587
+#: shopline/customizer/customizer.php:7611
+#: shopline/customizer/customizer.php:7635
+msgid "px"
+msgstr "px"
+
+#: oneline-lite/customizer/customizer.php:443
+#: oneline-lite/customizer/customizer.php:829
+#: shopline/customizer/customizer.php:1345
+#: shopline/customizer/customizer.php:1831
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: shopline/customizer/customizer.php:170
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: elanzalite/widget/section-four.php:45 elanzalite/widget/section-three.php:72
+#: m-shop/m-shop-front-page/front-blog.php:14
+#: m-shop/m-shop-front-page/front-productlist.php:15
+#: m-shop/m-shop-front-page/front-productslider.php:14
+msgid "View All"
+msgstr "Посмотреть все"
+
+#: elanzalite/widget/section-news.php:19 elanzalite/widget/section-news.php:100
+msgid "Breaking News"
+msgstr "Последние новости"
+
+#: shopline/customizer/customizer.php:499
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: elanzalite/customizer/customizer.php:2935
+#: elanzalite/customizer/customizer.php:2942
+#: featuredlite/customizer/customizer.php:549
+#: featuredlite/customizer/customizer.php:1384
+#: featuredlite/customizer/customizer.php:1587
+#: featuredlite/customizer/customizer.php:1894
+#: featuredlite/customizer/customizer.php:2040
+#: oneline-lite/customizer/customizer.php:705
+#: oneline-lite/customizer/customizer.php:783
+#: oneline-lite/customizer/customizer.php:971
+#: oneline-lite/customizer/customizer.php:1354
+#: shopline/customizer/customizer.php:332
+#: shopline/customizer/customizer.php:624
+#: shopline/customizer/customizer.php:1523
+#: shopline/customizer/customizer.php:1940
+#: shopline/customizer/customizer.php:2296
+#: shopline/customizer/customizer.php:2615
+#: shopline/customizer/customizer.php:3041
+#: shopline/customizer/customizer.php:3496
+#: shopline/customizer/customizer.php:3864
+#: shopline/customizer/customizer.php:4020
+#: shopline/customizer/customizer.php:4406
+#: shopline/customizer/customizer.php:4808
+#: shopline/customizer/customizer.php:5140
+#: shopline/customizer/customizer.php:5382
+msgid "Setting"
+msgstr "Настройка"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:98
+#: elanzalite/widget/section-four.php:19 elanzalite/widget/section-four.php:96
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:98
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: featuredlite/customizer/customizer.php:119
+#: oneline-lite/customizer/customizer.php:150
+msgid "Footer Background Color"
+msgstr "Цвет фона подвала"
+
+#: shopline/customizer/customizer.php:1365
+#: shopline/customizer/customizer.php:1851
+msgid "Overlay Gradient"
+msgstr "Наложение градиента"
+
+#: shopline/customizer/customizer.php:2599
+msgid "Product (WooCommerce)"
+msgstr "Товар (WooCommerce)"
+
+#: shopline/customizer/customizer.php:444
+msgid "Header Color"
+msgstr "Цвет заголовка"
+
+#: shopline/customizer/customizer.php:461
+msgid "Header Background"
+msgstr "Фон заголовка"
+
+#: elanzalite/widget/social-widget.php:114
+msgid "Google URL"
+msgstr "URL-адрес Google"
+
+#: elanzalite/widget/social-widget.php:126
+#: shopline/customizer/customizer.php:5486
+msgid "Linkedin URL"
+msgstr "URL-адрес LinkedIn"
+
+#: featuredlite/customizer/customizer.php:335
+msgid "Pintrest URL"
+msgstr "URL-адрес Pintrest"
+
+#: featuredlite/customizer/customizer.php:422
+#: oneline-lite/customizer/customizer.php:395
+msgid "Section Ordering"
+msgstr "Порядок разделов"
+
+#: featuredlite/inc/shortcode.php:119 featuredlite/inc/shortcode.php:137
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr "Lorem Ipsum - это просто фиктивный текст, используемый в полиграфии и типографском деле."
+
+#: shopline/customizer/customizer.php:5497
+msgid " Pinterest URL"
+msgstr " URL-адрес Pinterest"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:144
+#: elanzalite/widget/about-widget.php:130
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:144
+msgid "About Me Description"
+msgstr "Описание О нас"
+
+#: featuredlite/customizer/customizer.php:440
+#: featuredlite/customizer/customizer.php:450
+msgid "Background Option"
+msgstr "Параметры фона"
+
+#: shopline/customizer/customizer.php:5800
+msgid "Body Background Image"
+msgstr "Фоновое изображение основной части"
+
+#: m-shop/customizer/section/frontpage/ribbon.php:176
+#: shopline/customizer/customizer.php:2263
+#: shopline/customizer/customizer.php:2581
+#: shopline/customizer/customizer.php:3009
+#: shopline/customizer/customizer.php:3464
+#: shopline/customizer/customizer.php:3792
+#: shopline/customizer/customizer.php:3963
+#: shopline/customizer/customizer.php:4372
+#: shopline/customizer/customizer.php:4776
+#: shopline/customizer/customizer.php:5109
+#: shopline/customizer/customizer.php:5757
+msgid "Bottom Padding"
+msgstr "Внутренний отступ снизу"
+
+#: featuredlite/customizer/customizer.php:1230
+#: featuredlite/customizer/customizer.php:1362
+#: oneline-lite/customizer/customizer.php:926
+#: shopline/customizer/customizer.php:1488
+#: shopline/customizer/customizer.php:4324
+msgid "Button Text Hover Color"
+msgstr "Цвет текста кнопки при наведении"
+
+#: oneline-lite/customizer/customizer.php:1283
+#: shopline/customizer/customizer.php:4543
+msgid "Change Read More Text"
+msgstr "Изменить текст Читать далее"
+
+#: shopline/customizer/customizer.php:1321
+#: shopline/customizer/customizer.php:1807
+msgid "Choose Overlay"
+msgstr "Выберите наложение"
+
+#: shopline/inc/service.php:136 shopline/inc/testimonial.php:129
+msgid "Description Color:"
+msgstr "Цвет описания:"
+
+#: elanzalite/customizer/customizer.php:299
+#: featuredlite/customizer/customizer.php:52
+#: oneline-lite/customizer/customizer.php:50
+#: shopline/customizer/customizer.php:372
+msgid "Disable Fixed Header?"
+msgstr "Отключить фиксированную шапку?"
+
+#: shopline/customizer/customizer.php:5228
+msgid "Four Grid"
+msgstr "Четыре сетки"
+
+#: featuredlite/customizer/customizer.php:157
+#: oneline-lite/customizer/customizer.php:172
+msgid "Header Layout Option"
+msgstr "Вариант макета шапки"
+
+#: featuredlite/inc/shortcode.php:228
+msgid "Lavarez"
+msgstr "Lavarez"
+
+#: shopline/customizer/customizer.php:174
+msgid "Page Container Setting"
+msgstr "Настройка контейнера страницы"
+
+#: elanzalite/widget/section-news.php:141
+msgid "Post Date Background Color :"
+msgstr "Цвет фона даты записи:"
+
+#: elanzalite/widget/section-news.php:144
+msgid "Post Date Color :"
+msgstr "Цвет даты записи:"
+
+#: elanzalite/widget/recent-post.php:167 elanzalite/widget/section-five.php:211
+#: elanzalite/widget/section-five.php:226
+#: elanzalite/widget/section-four.php:118
+#: elanzalite/widget/section-news.php:124 elanzalite/widget/section-one.php:169
+#: elanzalite/widget/section-three.php:133
+#: elanzalite/widget/section-two.php:109
+msgid "Add Number Of Post To Show"
+msgstr "Количество записей для показа"
+
+#: featuredlite/customizer/customizer.php:456
+msgid "Check to activate background image"
+msgstr "Отметьте, чтобы активировать фоновое изображение"
+
+#: featuredlite/customizer/customizer.php:457
+msgid "Check to activate background slider"
+msgstr "Отметьте, чтобы активировать слайдер фона"
+
+#: featuredlite/customizer/customizer.php:612
+#: featuredlite/customizer/customizer.php:1149
+#: featuredlite/customizer/customizer.php:1285
+msgid "Check to open link in new tab"
+msgstr "Отметьте, чтобы открывать ссылку в новой вкладке/окне"
+
+#: amaz-store/customizer/section/frontpage/category-tab.php:53
+#: amaz-store/customizer/section/frontpage/product-list.php:48
+#: amaz-store/customizer/section/frontpage/product-slide.php:61
+#: jot-shop/customizer/section/frontpage/category-tab.php:53
+#: jot-shop/customizer/section/frontpage/product-list.php:48
+#: jot-shop/customizer/section/frontpage/product-slide.php:61
+#: m-shop/customizer/section/frontpage/category-tab.php:53
+#: m-shop/customizer/section/frontpage/product-list.php:48
+#: m-shop/customizer/section/frontpage/product-slide.php:59
+#: m-shop/customizer/section/frontpage/tab-productimage.php:55
+#: shopline/customizer/customizer.php:3162
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: elanzalite/widget/section-three.php:19
+#: elanzalite/widget/section-three.php:111
+msgid "Featured Post"
+msgstr "Избранная запись"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:161
+#: elanzalite/widget/about-widget.php:146
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:161
+msgid "Fontawesome Social Icon-1"
+msgstr "Значок-1 соцсетей Font Awesome"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:169
+#: elanzalite/widget/about-widget.php:152
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:169
+msgid "Fontawesome Social Icon-2"
+msgstr "Значок-2 соцсетей Font Awesome"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:175
+#: elanzalite/widget/about-widget.php:158
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:175
+msgid "Fontawesome Social Icon-3"
+msgstr "Значок-3 соцсетей Font Awesome"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:181
+#: elanzalite/widget/about-widget.php:164
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:181
+msgid "Fontawesome Social Icon-4"
+msgstr "Значок-4 соцсетей Font Awesome"
+
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:165
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:171
+#: amaz-store/amaz-store-admin/widget/about-us-widget.php:177
+#: elanzalite/widget/about-widget.php:148
+#: elanzalite/widget/about-widget.php:154
+#: elanzalite/widget/about-widget.php:160
+#: elanzalite/widget/about-widget.php:166
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:165
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:171
+#: jot-shop/jot-shop-admin/widget/about-us-widget.php:177
+msgid "Social Icon Link"
+msgstr "Ссылка на значок соцсети"
+
+#: elanzalite/widget/about-widget.php:149
+msgid "Social Link-1"
+msgstr "Ссылка-1 на значок соцсети"
+
+#: elanzalite/widget/about-widget.php:155
+msgid "Social Link-2"
+msgstr "Ссылка-2 на значок соцсети"
+
+#: elanzalite/widget/about-widget.php:161
+msgid "Social Link-3"
+msgstr "Ссылка-3 на значок соцсети"
+
+#: elanzalite/widget/about-widget.php:167
+msgid "Social Link-4"
+msgstr "Ссылка-4 на значок соцсети"
+
+#: featuredlite/widget/team.php:139 oneline-lite/widget/team.php:144
+msgid "Social-Icon-1"
+msgstr "Значок-1 соцсетей"
+
+#: featuredlite/widget/team.php:145 oneline-lite/widget/team.php:150
+msgid "Social-Icon-2"
+msgstr "Значок-2 соцсетей"
+
+#: featuredlite/widget/team.php:150 oneline-lite/widget/team.php:155
+msgid "Social-Icon-3"
+msgstr "Значок-3 соцсетей"
+
+#: elanzalite/widget/section-one.php:12
+msgid "THunk : Post Style 1"
+msgstr "THunk : стиль 1 записи"
+
+#: elanzalite/widget/section-two.php:12
+msgid "THunk : Post Style 2"
+msgstr "THunk : стиль 2 записи"
+
+#: elanzalite/widget/section-three.php:12
+msgid "THunk : Post Style 3"
+msgstr "THunk : стиль 3 записи"
+
+#: elanzalite/widget/section-four.php:12
+msgid "THunk : Post Style 4"
+msgstr "THunk : стиль 4 записи"
+
+#: elanzalite/widget/section-five.php:12
+msgid "THunk : Post Style 5"
+msgstr "THunk : стиль 5 записи"
+
+#: elanzalite/widget/social-widget.php:14
+msgid "THunk : Social-Widget"
+msgstr "THunk : виджет соцсетей"
+
+#: featuredlite/inc/shortcode.php:115
+msgid "Lorem Ipsum is simply ras ac sapien erat. Mauris justo elit, faucibus sed interdum vitae, vestibulum et dui. Suspendisse convallis a nulla nec placerat. Cras ac porta ipsum. Nam suscipit eros ut neque posuere, aliquam dapibus metus congue. Praesent ullamcorper vulputate tempus. Praesent eget est egestas, sagittis leo vel, interdum mi. Maecenas nec arcu gravida justo mollis condimentum. Proin quis nulla quis nisi sagittis finibus. Fusce efficitur blandit nulla, luctus viverra enim lacinia a."
+msgstr "Lorem Ipsum: is simply ras ac sapien erat. Mauris justo elit, faucibus sed interdum vitae, vestibulum et dui. Suspendisse convallis a nulla nec placerat. Cras ac porta ipsum. Nam suscipit eros ut neque posuere, aliquam dapibus metus congue. Praesent ullamcorper vulputate tempus. Praesent eget est egestas, sagittis leo vel, interdum mi. Maecenas nec arcu gravida justo mollis condimentum. Proin quis nulla quis nisi sagittis finibus. Fusce efficitur blandit nulla, luctus viverra enim lacinia a."
+
+#: featuredlite/inc/shortcode.php:172
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrystandard dummy text ever since the 1500s"
+msgstr "Lorem Ipsum: is simply dummy text of the printing and typesetting industry. Lorem Ipsum: has been the industrystandard dummy text ever since the 1500s"
+
+#: featuredlite/inc/shortcode.php:178 featuredlite/inc/shortcode.php:184
+#: featuredlite/inc/shortcode.php:190 featuredlite/inc/shortcode.php:196
+#: featuredlite/inc/shortcode.php:202
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s"
+msgstr "Lorem Ipsum: is simply dummy text of the printing and typesetting industry. Lorem Ipsum: has been the industrys standard dummy text ever since the 1500s"
+
+#: featuredlite/inc/shortcode.php:289 featuredlite/inc/shortcode.php:295
+#: featuredlite/inc/shortcode.php:301
+msgid "Lorem Ipsum is simply ras ac sapien erat. Mauris justo elit, faucibus sed interdum vitae, vestibulum et dui. Suspendisse convallis a nulla nec placerat. Cras ac porta ipsum. Nam suscipit eros ut neque posuere, aliquam dapibus metus congue. Praesent ullamcorper vulputate tempus"
+msgstr "Lorem Ipsum: is simply ras ac sapien erat. Mauris justo elit, faucibus sed interdum vitae, vestibulum et dui. Suspendisse convallis a nulla nec placerat. Cras ac porta ipsum. Nam suscipit eros ut neque posuere, aliquam dapibus metus congue. Praesent ullamcorper vulputate tempus"
+
+#: shopline/customizer/customizer.php:2961
+#: shopline/customizer/customizer.php:3414
+msgid "Sale Tag Text Color"
+msgstr "Цвет текста тега распродажи"
+
+#: featuredlite/inc/shortcode.php:239
+msgid "Roland"
+msgstr "Roland"
+
+#: featuredlite/inc/shortcode.php:239
+msgid "Lee"
+msgstr "Lee"
+
+#: featuredlite/inc/shortcode.php:250 featuredlite/inc/shortcode.php:260
+msgid "Annie"
+msgstr "Annie"
+
+#: featuredlite/inc/shortcode.php:250 featuredlite/inc/shortcode.php:260
+msgid "Watkins"
+msgstr "Watkins"
+
+#: featuredlite/inc/shortcode.php:254
+msgid "Accoutant"
+msgstr "Бухгалтер"
+
+#: featuredlite/inc/shortcode.php:290 featuredlite/inc/shortcode.php:296
+#: featuredlite/inc/shortcode.php:302
+msgid "Alex"
+msgstr "Alex"
+
+#: shopline/customizer/customizer.php:5349
+msgid "Zoom Icon Color"
+msgstr "Цвет значка увеличения"
+
+#: shopline/customizer/customizer.php:5359
+msgid "Zoom Icon Background Color"
+msgstr "Цвет фона значка увеличения"
+
+#: elanzalite/widget/section-ad.php:83
+msgid "Google Adsense / Custom Ad"
+msgstr "Google Adsense/Пользовательский код"
+
+#: featuredlite/inc/shortcode.php:160 featuredlite/inc/shortcode.php:216
+#: featuredlite/inc/shortcode.php:279 featuredlite/inc/shortcode.php:320
+#: featuredlite/inc/shortcode.php:371 shopline/inc/shortcode.php:965
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+msgstr "Lorem Ipsum: is simply dummy text of the printing and typesetting industry"
+
+#: featuredlite/widget/services.php:17
+msgid "ThemeHunk : Multi Services Column"
+msgstr "ThemeHunk: Столбец с несколькими услугами"
+
+#: shopline/customizer/customizer.php:1918
+msgid "10 Three column Ad Section"
+msgstr "10 Раздел Трехколоночная реклама"
+
+#: featuredlite/customizer/customizer.php:2136
+msgid "insert goole map iframe <a target=\"_blank\" href=\"https://www.google.co.in/maps\">Map</a>"
+msgstr "вставить карту Goolge iframe <a target=\"_blank\" href=\"https://www.google.co.in/maps\"></a>"
+
+#: elanzalite/widget/section-four.php:70
+msgid "Continue Reading →"
+msgstr "Читать полностью"
+
+#: amaz-store/amaz-store-admin/widget/post-single-slide-widget.php:124
+#: elanzalite/widget/section-five.php:208
+#: elanzalite/widget/section-five.php:223
+#: elanzalite/widget/section-four.php:122
+#: elanzalite/widget/section-news.php:128
+#: elanzalite/widget/section-three.php:137
+#: jot-shop/jot-shop-admin/widget/post-single-slide-widget.php:124
+msgid "Select Specific Option To Display Post"
+msgstr "Выберите настройки отображения записи"
+
+#: shopline/customizer/customizer.php:4390
+msgid "Latest Blog"
+msgstr "Свежий блог"
+
+#: shopline/customizer/customizer.php:4519
+msgid "Latest Post Category"
+msgstr "Категория последней записи"
+
+#: elanzalite/widget/section-one.php:173 elanzalite/widget/section-one.php:191
+#: elanzalite/widget/section-two.php:113
+msgid "Choose Category To Show Post"
+msgstr "Выберите категорию, чтобы показать запись"
+
+#: elanzalite/customizer/customizer.php:117
+msgid "Post Title Color"
+msgstr "Цвет заголовка записи"
+
+#: shopline/inc/shortcode.php:190 shopline/woo/woocommerce.php:468
+msgid "Sorry, The post you are looking is unavailable!"
+msgstr "Извините, по вашему запросу ничего не найдено!"
+
+#: shopline/customizer/customizer.php:45
+msgid "doc"
+msgstr "документ"
+
+#: oneline-lite/customizer/customizer.php:31
+#: shopline/customizer/customizer.php:100
+msgid "Choose sidebar option for inner pages (non-home)"
+msgstr "Выберите вариант области виджетов для внутренних страниц"
+
+#: elanzalite/customizer/customizer.php:679
+#: elanzalite/customizer/customizer.php:850
+#: elanzalite/customizer/customizer.php:2962
+#: featuredlite/customizer/customizer.php:36
+#: oneline-lite/customizer/customizer.php:34
+#: shopline/customizer/customizer.php:103
+msgid "Right sidebar"
+msgstr "Правая область виджетов"
+
+#: elanzalite/customizer/customizer.php:680
+#: elanzalite/customizer/customizer.php:851
+#: elanzalite/customizer/customizer.php:2963
+#: featuredlite/customizer/customizer.php:37
+#: oneline-lite/customizer/customizer.php:35
+#: shopline/customizer/customizer.php:104
+msgid "Left sidebar"
+msgstr "Левая область виджетов"
+
+#: elanzalite/customizer/customizer.php:681
+#: elanzalite/customizer/customizer.php:852
+#: featuredlite/customizer/customizer.php:38
+#: oneline-lite/customizer/customizer.php:36
+#: shopline/customizer/customizer.php:105
+msgid "No sidebar"
+msgstr "Без области виджетов"
+
+#: featuredlite/customizer/customizer.php:69
+#: oneline-lite/customizer/customizer.php:67
+#: shopline/customizer/customizer.php:136
+msgid "Check here to disable homepage section animation."
+msgstr "Отметьте, чтобы отключить анимацию раздела домашней страницы."
+
+#: shopline/customizer/customizer.php:45
+msgid "To customize the Contact Page first go to \"Dashboard > Page > Template > Contact Page Template\". Then open the page in the browser and click on customize. After that you will able to see the setting of Contact Page in your customize panel."
+msgstr "Чтобы настроить страницу контактов, Перейдите в  Косоль > Страница > Шаблон > Шаблон страницы контактов . Затем откройте страницу в браузере и нажмите «настроить». После этого вы сможете увидеть настройки страницы контактов на панели настроек."
+
+#: featuredlite/customizer/customizer.php:82
+#: oneline-lite/customizer/customizer.php:80
+#: shopline/customizer/customizer.php:149
+msgid "Hide back to top button ?"
+msgstr "Скрыть кнопку прокрутки вверх?"
+
+#: shopline/woo/woocommerce.php:737
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: elanzalite/customizer/customizer.php:301
+#: featuredlite/customizer/customizer.php:54
+#: oneline-lite/customizer/customizer.php:52
+#: shopline/customizer/customizer.php:374
+msgid "Check here to disable Fixed header and activate Normal header."
+msgstr "Отметьте, чтобы отключить фиксированную шапку и активировать обычную шапку."
+
+#: featuredlite/customizer/customizer.php:389
+#: featuredlite/customizer/customizer.php:400
+#: oneline-lite/customizer/customizer.php:363
+#: oneline-lite/customizer/customizer.php:374
+msgid "Section On/Off"
+msgstr "Раздел Вкл/Отк"
+
+#: featuredlite/customizer/customizer.php:544
+msgid "Main Header Section"
+msgstr "Раздел Основной заголовок"
+
+#: shopline/customizer/customizer.php:1886
+msgid "Frontpage Section"
+msgstr "Раздел Главная страница"
+
+#: shopline/customizer/customizer.php:80
+msgid "Appearance Settings"
+msgstr "Настройки внешнего вида"
+
+#: featuredlite/customizer/customizer.php:1977
+msgid "Color Option"
+msgstr "Вариант цвета"
+
+#: featuredlite/customizer/customizer.php:32
+msgid "Site Layout"
+msgstr "Макет сайта"
